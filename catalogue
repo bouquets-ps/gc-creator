@@ -55,6 +55,9 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
+code {
+  color: silver;
+}
 textarea {
   border-radius: 5px;
   border: 1px solid var(--color-fg);
