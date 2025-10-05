@@ -297,9 +297,11 @@ text
 </p></details></div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Prompt</b></summary><p>
 
-<pre><code>
+<textarea>
 text
-</code></pre>
+text
+text
+<textarea>
 
 </p></details></div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Code</b></summary><p>
