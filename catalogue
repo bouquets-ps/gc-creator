@@ -166,7 +166,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with Pokemon names.</li>
+<li>Replace <code>✿</code> with Pokemon.</li>
 <li>OPTIONAL: Replace <code>-0px -0px</code> with positive numbers (e.g. <code>5px 10px</code>) to move Pokemon right or down.</li>
 </ol>
 
@@ -198,9 +198,9 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with background.</li>
-<li>Replace <code>✿✿</code> with Pokemon name.</li>
-<li>Replace <code>✿✿✿</code> with coordinates.</li>
+<li>Replace <code>✿</code> with a rescue team camp.</li>
+<li>Replace <code>✿✿</code> with a Pokemon.</li>
+<li>Replace <code>✿✿✿</code> with coordinates. x must be between 96 and 604. y must be between 0 and 177.</li>
 </ol>
 
 </div><br><br>
@@ -222,7 +222,7 @@ button {
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Random Background</b><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Random Rescue Team Camp</b><br><br>
 
 <code>
 /pick wildplains, sky-blueplains, beauplains, thundercrag, powerplant, mt.discipline, mt.green, mt.cleft, stumpforest, flyawayforest, secretiveforest, vibrantforest, mushroomforest, overgrownforest, jungle, poisonswamp, safari, witheringdesert, ravagedfield, scorchedplains, crater, echocave, bouldercave, frigidcavern, tadpolepond, turtleshellpond, rub-a-dubriver, gourdswamp, icefloebeach, shallowbeach, bountifulsea, serenesea, treasuresea, deepseafloor, decrepitlab, waterfalllake, evolutionforest, mysticlake, magneticquarry, dragoncave, agedchambera-n, agedchambero-qm, ancientrelic, mt.moonview, darknessridge, legendaryisland, crypticcave, finalisland, sacredfield, deepseacurrent, rainbowpeak, healingforest, southernisland, seafloorcave, volcanicpit, stratoslookout, enclosedisland
