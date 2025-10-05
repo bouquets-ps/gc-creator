@@ -59,6 +59,7 @@ code {
   color: silver;
 }
 textarea {
+  padding: 25px;
   border-radius: 5px;
   border: 1px solid var(--color-fg);
   width: 100%;
