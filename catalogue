@@ -55,6 +55,12 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
+textarea {
+  width: 95%;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
+  transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
+}
 div {
   overflow: scroll;
 }
