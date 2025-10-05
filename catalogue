@@ -91,17 +91,17 @@ button {
 <hr><br>
 <center>
 
-<button
+<button>
     type="button"
     data-theme-toggle
     aria-label="Light"
   >Light</button>
 
-<br><br>
+<br><br></center>
 
 <h2>Knowledge</h2>
 
-<span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -420px;"></span><h4>Togetic's Trainer Cards</h4><br>
-Guess an offline Game Corner user based on their <a href="https://tinyurl.com/gc-museum">trainer card</a>!
+<span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -420px;"><h3>Togetic's Trainer Cards</h3></span><br>
+Guess an offline Game Corner user based on their <a style="text-decoration:none; color: silver" href="https://tinyurl.com/gc-museum">trainer card</a>!
 
 <br><br><b>Hosting difficulty:</b> medium | <b>Playing difficulty:</b> medium
