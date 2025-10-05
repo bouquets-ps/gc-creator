@@ -101,7 +101,7 @@ button {
 
 <h2>Identification</h2>
 
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b font-size: 30px">Fidough's Sandwiched Pokemon</b> <img align="right" src="//play.pokemonshowdown.com/sprites/ani/fidough.gif"></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b style="font-size: 30px">Fidough's Sandwiched Pokemon</b> <img align="right" src="//play.pokemonshowdown.com/sprites/ani/fidough.gif"></summary><p>
 to be added
 </p></details></div><br><br>
 
