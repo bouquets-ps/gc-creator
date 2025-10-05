@@ -83,7 +83,7 @@ button {
 <center>
 <h1><table><tr><td>PS! Game Corner Custom Minigames</td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
-<td>Catalogue</td>
+<td>CATALOGUE</td>
 <td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-minigames/blob/main/faq">FAQ</a></td>
 </tr></table></span></h3>
 </center>
@@ -98,3 +98,10 @@ button {
   >Light</button>
 
 <br><br>
+
+<h2>Knowledge</h2>
+
+<span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -420px;"></span><h4>Togetic's Trainer Cards</h4><br>
+Guess an offline Game Corner user based on their <a href="https://tinyurl.com/gc-museum">trainer card</a>!
+
+<br><br><b>Hosting difficulty:</b> medium | <b>Playing difficulty:</b> medium
