@@ -101,7 +101,9 @@ button {
 
 <h2>Knowledge</h2>
 
-<span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -420px;"><h3>Togetic's Trainer Cards</h3></span><br>
-Guess an offline Game Corner user based on their <a style="text-decoration:none; color: silver" href="https://tinyurl.com/gc-museum">trainer card</a>!
-
-<br><br><b>Hosting difficulty:</b> medium | <b>Playing difficulty:</b> medium
+<details><summary>
+<img src="//play.pokemonshowdown.com/sprites/ani/togetic.gif">
+<h3>Togetic's Trainer Cards</h3>
+</summary>
+<p></p>
+</details>
