@@ -55,7 +55,7 @@ document.getElementById("searchBar").addEventListener("input", function() {
 
 </script>
 <style>
-code {
+div {
   overflow: scroll;
 }
 td {
@@ -171,35 +171,35 @@ Replace ✿ with Unown GIFs to form a phrase.
 
 
 </p></details></div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Letters</b></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Unown GIFs</b></summary><p>
 
 <pre><code>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown.gif" width="25" height="45"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-b.gif" width="24" height="42"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-c.gif" width="28" height="47"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-d.gif" width="28" height="44"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-e.gif" width="29" height="41"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-f.gif" width="30" height="41"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-g.gif" width="22" height="46"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-h.gif" width="33" height="42"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-i.gif" width="19" height="42"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-j.gif" width="25" height="40"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-k.gif" width="26" height="41"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-l.gif" width="25" height="38"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-m.gif" width="32" height="36"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-n.gif" width="34" height="35"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-o.gif" width="50" height="43"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-p.gif" width="23" height="38"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-q.gif" width="27" height="33"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-r.gif" width="23" height="37"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-s.gif" width="28" height="51"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-t.gif" width="30" height="38"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-u.gif" width="38" height="37"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-v.gif" width="33" height="41"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-w.gif" width="38" height="36"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-x.gif" width="28" height="33"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-y.gif" width="28" height="41"></img>
-<img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-z.gif" width="21" height="44"></img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown.gif" width="25" height="45">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-b.gif" width="24" height="42">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-c.gif" width="28" height="47">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-d.gif" width="28" height="44">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-e.gif" width="29" height="41">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-f.gif" width="30" height="41">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-g.gif" width="22" height="46">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-h.gif" width="33" height="42">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-i.gif" width="19" height="42">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-j.gif" width="25" height="40">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-k.gif" width="26" height="41">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-l.gif" width="25" height="38">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-m.gif" width="32" height="36">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-n.gif" width="34" height="35">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-o.gif" width="50" height="43">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-p.gif" width="23" height="38">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-q.gif" width="27" height="33">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-r.gif" width="23" height="37">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-s.gif" width="28" height="51">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-t.gif" width="30" height="38">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-u.gif" width="38" height="37">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-v.gif" width="33" height="41">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-w.gif" width="38" height="36">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-x.gif" width="28" height="33">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-y.gif" width="28" height="41">&lt;/img>
+&lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-z.gif" width="21" height="44">&lt;/img>
 </code></pre>
 
 </p></details></div><br><br>
