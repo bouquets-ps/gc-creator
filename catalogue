@@ -102,15 +102,18 @@ button {
 <h2>Identification</h2>
 
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Fidough's Sandwiched Pokemon</b> <img align="right" src="//play.pokemonshowdown.com/sprites/ani/fidough.gif"></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%">
 <details><summary> <b>Instructions</b></summary><p>
 to be added
-</p></details><br><br>
+</p></details></div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%">
 <details><summary> <b>Code</b></summary><p>
 to be added
-</p></details><br><br>
+</p></details></div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%">
 <details><summary> <b>Example Game</b></summary><p>
 to be added
-</p></details><br><br>
+</p></details></div><br><br>
 </p></details></div><br><br>
 
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Sigilyph's Ancient Ruins</b> <img align="right" src="//play.pokemonshowdown.com/sprites/ani/sigilyph.gif"></summary><p>
