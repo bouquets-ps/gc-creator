@@ -117,14 +117,15 @@ to be added
 
 <h2>Luck</h2>
 
-<details><summary><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px">
-<img src="//play.pokemonshowdown.com/sprites/ani/diglett.gif"></div><b>Diglett's Whack-a-Mole</b></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px"><details><summary><b>Diglett's Whack-a-Mole</b><img src="//play.pokemonshowdown.com/sprites/ani/diglett.gif"></summary><p>
 to be added
-</p></details><br><br>
+</p></details></div><br><br>
 
 <details><summary><img src="//play.pokemonshowdown.com/sprites/ani/shaymin.gif"><b>Shaymin's Meadow</b></summary><p>
 to be added
 </p></details><br><br>
+
+<h2>Speed</h2>
 
 
 
