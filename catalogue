@@ -165,6 +165,14 @@ Replace ✿ with Unown GIFs to form a phrase.
 </p></details></div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Prompt</b></summary><p>
 
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1380px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sigilyph-s-ancient-ruins-t1344.html">Sigilyph's Ancient Ruins</a></b>
+<br>Decipher the hidden message carved in Unown runes.
+<hr><center>
+✿
+</center>
+</textarea>
+
 <pre><code>
 !htmlbox &lt;span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1380px;">&lt;/span>&lt;b>Mini &lt;a href="https://www.tapatalk.com/groups/ps_game_corner/sigilyph-s-ancient-ruins-t1344.html">Sigilyph's Ancient Ruins&lt;/a>&lt;/b>&lt;br>Decipher the hidden message carved in Unown runes.&lt;hr>&lt;center>
 ✿
@@ -299,9 +307,7 @@ text
 
 <textarea>
 text
-text
-text
-<textarea>
+</textarea>
 
 </p></details></div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Code</b></summary><p>
