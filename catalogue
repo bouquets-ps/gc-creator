@@ -117,7 +117,8 @@ to be added
 
 <h2>Luck</h2>
 
-<details><summary><img src="//play.pokemonshowdown.com/sprites/ani/diglett.gif"><b>Diglett's Whack-a-Mole</b></summary><p>
+<details><summary><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px">
+<img src="//play.pokemonshowdown.com/sprites/ani/diglett.gif"></div><b>Diglett's Whack-a-Mole</b></summary><p>
 to be added
 </p></details><br><br>
 
