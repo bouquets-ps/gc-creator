@@ -199,8 +199,8 @@ button {
 
 <ol>
 <li>Replace <code>✿</code> with background.</li>
-<li>Replace <code>❀</code> with Pokemon name.</li>
-<li>Replace <code>✾</code> with coordinates.</li>
+<li>Replace <code>✿✿</code> with Pokemon name.</li>
+<li>Replace <code>✿✿✿</code> with coordinates.</li>
 </ol>
 
 </div><br><br>
@@ -209,7 +209,7 @@ button {
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -870px;"></span><b>Mini Kecleon's Camouflage</b><br>Find and name the hidden Pokemon!<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 96px; height: 273px"><marquee loop="-1" width="96" scrollamount="3">
 <span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://www.serebii.net/dungeonrescueteamdx/camp/✿.jpg) no-repeat scroll -0px -0px;">
-<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/❀.png) no-repeat scroll ✾px ✾px; opacity: 0.4"></span></span>
+<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿✿.png) no-repeat scroll ✿✿✿px ✿✿✿px; opacity: 0.4"></span></span>
 </marquee></div></center>
 </textarea>
 
@@ -218,7 +218,7 @@ button {
 
 <textarea>
 !htmlbox <span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://www.serebii.net/dungeonrescueteamdx/camp/✿.jpg) no-repeat scroll -0px -0px;">
-<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿.png) no-repeat scroll ✿px ✿px; opacity: 1"></span></span>
+<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿✿.png) no-repeat scroll ✿✿✿px ✿✿✿px; opacity: 1"></span></span>
 </textarea>
 
 </div><br><br>
