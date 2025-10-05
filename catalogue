@@ -164,24 +164,24 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Instructions</b></summary><p>
 
 <ol>
-<li>/randpoke 5, natdex. Can be rerolled to increase difficulty.</li>
-<li>Use /shuffle 1, 2, 3, 4, 5 to shuffle the Pokemon order. Can be manually arranged to increase difficulty.</li>
-<li>Replace ✿ with Pokemon names. Width and height can be reduced to remove empty space.</li>
+<li>Generate five Pokemon with <code>/randpoke 5, natdex</code>.</li>
+<li>Replace ✿ with Pokemon names in any order.</li>
+<li>Optional: Change <code>-0px -0px</code> to positive numbers to move Pokemon right or down.</li>
 </ol>
 
 </p></details></div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Prompt</b></summary><p>
 
 <textarea>
-text
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px;"></span><b>Mini Fidough's Sandwiched Pokemon</b><br>Name all five Pokemon that are stacked on top of each other.<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px; height: 200px">
+<marquee behavior="slide" width="200" scrollamount="3" direction="right">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
+</span></span></span></span></span></marquee></div><br><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px"><i>(wait a few seconds for the Pokemon to show up)</i></div></center>
 </textarea>
-
-</p></details></div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Code</b></summary><p>
-
-<pre><code>
-text
-</code></pre>
 
 </p></details></div><br><br>
 </p></details></div><br><br>
@@ -197,9 +197,7 @@ Replace ✿ with Unown GIFs to form a phrase.
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Prompt</b></summary><p>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1380px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sigilyph-s-ancient-ruins-t1344.html">Sigilyph's Ancient Ruins</a></b>
-<br>Decipher the hidden message carved in Unown runes.
-<hr><center>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1380px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sigilyph-s-ancient-ruins-t1344.html">Sigilyph's Ancient Ruins</a></b><br>Decipher the hidden message carved in Unown runes.<hr><center>
 ✿
 </center>
 </textarea>
