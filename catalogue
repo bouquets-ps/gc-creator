@@ -44,6 +44,15 @@ button.addEventListener("click", (event) => {
 
   currentThemeSetting = newTheme;
 });
+
+document.getElementById("searchBar").addEventListener("input", function() {
+    let filter = this.value.toLowerCase();
+    let cards = document.querySelectorAll("#container .infobox");
+    cards.forEach(card => {
+        card.style.display = card.querySelector(".searchValue").textContent.toLowerCase().includes(filter) ? "inline-block" : "none";
+    });
+});
+
 </script>
 <style>
 td {
@@ -91,17 +100,22 @@ button {
 <hr><br>
 <center>
 
-<button
-    type="button"
-    data-theme-toggle
-    aria-label="Light"
-  >Light</button>
+<div class="top-section">
+  <button
+      type="button"
+      data-theme-toggle
+      aria-label="Light"
+      class = "center-button"
+    >Light</button>
+    <input type="text" id="searchBar" class="search-bar" placeholder="Type to search...">
+</div>
+<br><br>
 
-<br><br></center>
+<div id = "container">
 
 <h2>Identification</h2>
 
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px"></span><b>Fidough's Sandwiched Pokemon</b></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px"></span><b class="searchValue">Fidough's Sandwiched Pokemon</b></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%">
 <details><summary> <b>Instructions</b></summary><p>
 to be added
@@ -199,4 +213,6 @@ to be added
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Kecleon's Camouflage</b> <img align="right" src="//play.pokemonshowdown.com/sprites/ani/kecleon.gif"></summary><p>
 to be added
 </p></details></div><br><br>
+
+</div>
 
