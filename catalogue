@@ -62,7 +62,7 @@ textarea {
   padding: 25px;
   border-radius: 5px;
   border: 1px solid var(--color-fg);
-  width: 100%;
+  width: 95%;
   height: 500px;
   background-color: var(--color-bg);
   color: var(--color-fg);
