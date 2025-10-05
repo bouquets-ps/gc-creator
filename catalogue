@@ -161,8 +161,6 @@ button {
 
 <div id = "container">
 
-<h2>Identification</h2>
-
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px"></span><strong class="searchValue">Fidough's Sandwiched Pokemon</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
@@ -194,7 +192,7 @@ button {
 
 <ol>
 <li>Decide Shaymin's coordinates with <code>/pick a1, b1, c1, d1, e1, f1, g1, h1, a2, b2, c2, d2, e2, f2, g2, h2, a3, b3, c3, d3, e3, f3, g3, h3, a4, b4, c4, d4, e4, f4, g4, h4</code>.</li>
-<li>Replace said cooridnates' <code><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></code> with Shaymin icon.</li>
+<li>Replace said cooridnates' <code>&lt;img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24">&lt;/img></code> with Shaymin icon.</li>
 </ol>
 
 </div><br><br>
@@ -243,9 +241,9 @@ button {
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Shaymin Icon</b><br>
 
-<pre><code>
+<code>
 &lt;span style="display: inline-block;height: 24px;width: 24px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -10px -1236px;">&lt;/span>
-</code></pre>
+</code>
 
 </div>
 </p></details></div><br><br>
@@ -306,8 +304,6 @@ button {
 
 
 
-
-<h2>Sample</h2>
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -0px"></span><strong class="searchValue">Sample</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
