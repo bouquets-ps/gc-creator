@@ -149,6 +149,8 @@ button {
 
 <div id = "container">
 
+
+
 <h2>Identification</h2>
 
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Fidough's Sandwiched Pokemon</b> <img align="right" src="//play.pokemonshowdown.com/sprites/ani/fidough.gif"></summary><p>
@@ -168,7 +170,6 @@ Replace ✿ with Unown GIFs to form a phrase.
 ✿
 &lt;/center>
 </code></pre>
-
 
 </p></details></div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Unown GIFs</b></summary><p>
@@ -202,18 +203,6 @@ Replace ✿ with Unown GIFs to form a phrase.
 &lt;img src="https://play.pokemonshowdown.com/sprites/gen5ani/unown-z.gif" width="21" height="44">&lt;/img>
 </code></pre>
 
-</p></details></div><br><br>
-</p></details></div><br><br>
-
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1380px"></span><strong class="searchValue">Sigilyph's Ancient Ruins</strong></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Code</b></summary><p>
-text
-</p></details></div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Code</b></summary><p>
-text
-</p></details></div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Code</b></summary><p>
-text
 </p></details></div><br><br>
 </p></details></div><br><br>
 
@@ -295,6 +284,31 @@ to be added
 
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Kecleon's Camouflage</b> <img align="right" src="//play.pokemonshowdown.com/sprites/ani/kecleon.gif"></summary><p>
 to be added
+</p></details></div><br><br>
+
+
+<h2>Sample</h2>
+
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -0px"></span><strong class="searchValue">Sample</strong></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Instructions</b></summary><p>
+
+text
+
+</p></details></div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Prompt</b></summary><p>
+
+<pre><code>
+text
+</code></pre>
+
+</p></details></div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary> <b>Code</b></summary><p>
+
+<pre><code>
+text
+</code></pre>
+
+</p></details></div><br><br>
 </p></details></div><br><br>
 
 </div>
