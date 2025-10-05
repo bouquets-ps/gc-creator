@@ -165,9 +165,8 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
 <ol>
-<li>Generate five Pokemon with <code>/randpoke 5, natdex</code>.</li>
-<li>Replace <code>✿</code> with Pokemon names in any order.</li>
-<li>Optional: Change <code>-0px -0px</code> to positive numbers to move Pokemon right or down.</li>
+<li>Replace <code>✿</code> with five Pokemon names.</li>
+<li>(optional) Replace <code>-0px -0px</code> with positive numbers to move Pokemon right or down.</li>
 </ol>
 
 </div><br><br>
@@ -182,6 +181,13 @@ button {
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
 </span></span></span></span></span></marquee></div><br><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px"><i>(wait a few seconds for the Pokemon to show up)</i></div></center>
 </textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Random Pokemon</b><br><br>
+
+<code>
+/randpoke 5, natdex
+</code>
 
 </div>
 </p></details></div><br><br>
@@ -238,14 +244,14 @@ button {
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Shaymin Icon</b><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Shaymin Icon</b><br><br>
 
 <code>
 &lt;span style="display: inline-block;height: 24px;width: 24px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -10px -1236px;">&lt;/span>
 </code>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Random Coordinates</b><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Random Coordinates</b><br><br>
 
 <code>
 /pick a1, b1, c1, d1, e1, f1, g1, h1, a2, b2, c2, d2, e2, f2, g2, h2, a3, b3, c3, d3, e3, f3, g3, h3, a4, b4, c4, d4, e4, f4, g4, h4
