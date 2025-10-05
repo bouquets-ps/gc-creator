@@ -101,7 +101,7 @@ button {
 
 <h2>Identification</h2>
 
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 100%"><details><summary> <b>Fidough's Sandwiched Pokemon</b> <img src="//play.pokemonshowdown.com/sprites/ani/fidough.gif"></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 100% ; margin-right: 30px"><details><summary> <b>Fidough's Sandwiched Pokemon</b> <img src="//play.pokemonshowdown.com/sprites/ani/fidough.gif"></summary><p>
 to be added
 </p></details></div><br><br>
 
@@ -115,11 +115,24 @@ to be added
 to be added
 </p></details></div><br><br>
 
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px"><details><summary> <b>Rotom's Dex Trivia</b> <img src="//play.pokemonshowdown.com/sprites/ani/rotom.gif"></summary><p>
+to be added
+</p></details></div><br><br>
+
+
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px"><details><summary> <b>Togetic's Trainer Cards</b> <img src="//play.pokemonshowdown.com/sprites/ani/togetic.gif"></summary><p>
 to be added
 </p></details></div><br><br>
 
 <h2>Luck</h2>
+
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px"><details><summary> <b>Crustle's Crumbling Blocks</b> <img src="//play.pokemonshowdown.com/sprites/ani/crustle.gif"></summary><p>
+to be added
+</p></details></div><br><br>
+
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px"><details><summary> <b>Delibird's Presents</b> <img src="//play.pokemonshowdown.com/sprites/ani/delibird.gif"></summary><p>
+to be added
+</p></details></div><br><br>
 
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px"><details><summary> <b>Diglett's Whack-a-Mole</b> <img src="//play.pokemonshowdown.com/sprites/ani/diglett.gif"></summary><p>
 to be added
@@ -130,6 +143,10 @@ to be added
 </p></details></div><br><br>
 
 <h2>Speed</h2>
+
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px"><details><summary> <b>Alakazam's Total Recall</b> <img src="//play.pokemonshowdown.com/sprites/ani/alakazam.gif"></summary><p>
+to be added
+</p></details></div><br><br>
 
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px"><details><summary> <b>Kecleon's Camouflage</b> <img src="//play.pokemonshowdown.com/sprites/ani/kecleon.gif"></summary><p>
 to be added
