@@ -102,8 +102,7 @@ button {
 <h2>Knowledge</h2>
 
 <details><summary>
-<img src="//play.pokemonshowdown.com/sprites/ani/togetic.gif">
-<h3>Togetic's Trainer Cards</h3>
+<img src="//play.pokemonshowdown.com/sprites/ani/togetic.gif"><b>Togetic's Trainer Cards</b>
 </summary>
-<p></p>
+<p>test</p>
 </details>
