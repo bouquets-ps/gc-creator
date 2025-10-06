@@ -270,7 +270,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -300px;"></span><b>Mini Gyarados' Inverse Shiny Hunting</b><br>Name the Pokemon that is not shiny! (one guess only)<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 50px; height: 200px"><marquee loop="-1" width="50" scrollamount="10" direction="right"><span style="display: inline-block; width: 2000px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/flabebe-blue.gif) no-repeat scroll -999px -999px"></span>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -300px;"></span><b>Mini Gyarados' Inverse Shiny Hunting</b><br>Name the Pokemon that is not shiny! (one guess only)<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 50px; height: 200px"><marquee loop="-1" width="50" scrollamount="10" direction="right">
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani-shiny/✿.gif) no-repeat scroll -0px -0px"></span>
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani-shiny/✿.gif) no-repeat scroll -0px -0px"></span>
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani-shiny/✿.gif) no-repeat scroll -0px -0px"></span>
@@ -281,7 +281,7 @@ button {
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani-shiny/✿.gif) no-repeat scroll -0px -0px"></span>
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani-shiny/✿.gif) no-repeat scroll -0px -0px"></span>
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani-shiny/✿.gif) no-repeat scroll -0px -0px"></span>
-</marquee></div><br><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px"><i>(wait a few seconds for the Pokemon to show up)</i></div></center>
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/flabebe-blue.gif) no-repeat scroll -999px -999px"></span></marquee></div><br><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px"><i>(wait a few seconds for the Pokemon to show up)</i></div></center>
 </textarea>
 
 </div><br><br>
