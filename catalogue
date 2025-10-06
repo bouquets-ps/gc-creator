@@ -514,7 +514,7 @@ button {
 <ol>
 <li>Replace <code>✿</code> with a trainer card from the User Museum. Any line that starts with <code>&lt;span class="infobox" style="display: inline-block ; width: 250px"></code> is a trainer card.</li>
 <li>Delete the username.</li>
-<li>Delete <code>&lt;b>Last updated:&lt;/b> ????-??-??&lt;br>&lt;br></code>.</li>
+<li>Delete <code>&lt;b>Last updated:&lt;/b> yyyy-mm-dd&lt;br>&lt;br></code>, where <code>yyyy-mm-dd</code> can be any number.</li>
 <li>SITUATIONAL: Delete <code>"</code> in <code>width="80px" height="80px"</code> if applicable.</li>
 </ol>
 
