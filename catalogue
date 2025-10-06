@@ -264,7 +264,8 @@ button {
 <ol>
 <li>Replace <code>✿</code> with a rescue team camp.</li>
 <li>Replace <code>✿✿</code> with a Pokemon.</li>
-<li>Replace <code>✿✿✿</code> with coordinates. x must be between 96 and 604. y must be between 0 and 177.</li>
+<li>Replace <code>✿✿✿</code> with a number between 96 and 604.</li>
+<li>Replace <code>✿✿✿✿</code> with a number between 0 and 177.</li>
 </ol>
 
 </div><br><br>
@@ -273,7 +274,7 @@ button {
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -870px;"></span><b>Mini Kecleon's Camouflage</b><br>Find and name the hidden Pokemon!<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 96px; height: 273px"><marquee loop="-1" width="96" scrollamount="3">
 <span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://www.serebii.net/dungeonrescueteamdx/camp/✿.jpg) no-repeat scroll -0px -0px;">
-<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿✿.png) no-repeat scroll ✿✿✿px ✿✿✿px; opacity: 0.2"></span></span>
+<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿✿.png) no-repeat scroll ✿✿✿px ✿✿✿✿px; opacity: 0.2"></span></span>
 </marquee></div></center>
 </textarea>
 
@@ -282,7 +283,7 @@ button {
 
 <textarea>
 !htmlbox <span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://www.serebii.net/dungeonrescueteamdx/camp/✿.jpg) no-repeat scroll -0px -0px;">
-<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿✿.png) no-repeat scroll ✿✿✿px ✿✿✿px; opacity: 1"></span></span>
+<span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿✿.png) no-repeat scroll ✿✿✿px ✿✿✿✿px; opacity: 1"></span></span>
 </textarea>
 
 </div><br><br>
@@ -300,7 +301,7 @@ button {
 </code>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Random Coordinates</b><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Random Numbers</b><br>
 
 <pre><code>
 /roll 509+95
