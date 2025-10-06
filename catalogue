@@ -464,6 +464,34 @@ button {
 </p></details></div><br><br>
 
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -420px"></span><strong class="searchValue">Togetic's Trainer Cards</strong></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
+
+<ol>
+<li>Replace <code>✿</code> with a trainer card.</li>
+<li>Delete the username.</li>
+<li>Delete <code>&lt;b>Last updated:&lt;/b> ????-??-??&lt;br>&lt;br></code>.</li>
+<li>SITUATIONAL: Delete the <code>"</code> in <code>width="80px" height="80px"</code> if applicable.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -420px;"></span><b>Mini Togetic's Trainer Cards</b><br>Guess an offline Game Corner user based on their <a href="https://tinyurl.com/gc-museum">trainer card</a>!<hr><center>
+✿
+</center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Trainer Cards</b><br>
+
+<pre><code>
+https://raw.githubusercontent.com/bouquets-ps/gc-museum/refs/heads/main/trainer-card
+</code></pre>
+
+</div>
+</p></details></div><br><br>
 
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -0px"></span><strong class="searchValue">Sample</strong></summary><p>
