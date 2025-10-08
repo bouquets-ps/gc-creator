@@ -45,14 +45,6 @@ button.addEventListener("click", (event) => {
   currentThemeSetting = newTheme;
 });
 
-document.getElementById("searchBar").addEventListener("input", function() {
-    let filter = this.value.toLowerCase();
-    let cards = document.querySelectorAll("#container .infobox");
-    cards.forEach(card => {
-        card.style.display = card.querySelector(".searchValue").textContent.toLowerCase().includes(filter) ? "inline-block" : "none";
-    });
-});
-
 </script>
 <style>
 code {
@@ -100,39 +92,9 @@ button {
   color: var(--color-fg);
   background-color: var(--color-bg);
   transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
-}
-.top-section {
-  width: 100%;
-  display: flex;
-  justify-content: flex-end;
-  align-items: center;
   margin-bottom: 24px;
-  position: relative;      
 }
-.center-button {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-}
-.search-bar {
-  font-family: "Quicksand", sans-serif;
-  border: 1px solid #2884c6;
-  float: right;
-  margin-right:50px;
-  position:relative;
-  padding: 8px 20px;
-  border-radius: 5px;
-  width: 15%;
-  max-width: 180px;
-  min-width: 150px;
-  transition: all 0.3s ease-in-out;
-  outline: none;
-  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.2);
-}
-.search-bar:focus {
-  border-color: #2884c6;
-  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.3);
-}
+
 </style>
 </head>
 <body>
@@ -147,15 +109,12 @@ button {
 <hr><br>
 <center>
 
-<div class="top-section">
-  <button
-      type="button"
-      data-theme-toggle
-      aria-label="Light"
-      class = "center-button"
-    >Light</button>
-    <input type="text" id="searchBar" class="search-bar" placeholder="Type to search...">
-</div>
+<button
+    type="button"
+    data-theme-toggle
+    aria-label="Light"
+  >Light</button>
+
 <br><br>
 
 </center>
@@ -308,7 +267,7 @@ button {
 <ol>
 <li>Replace <code>✿</code> with numbers between 1 to 10. Each lane should have a different number.</li>
 <li>Replace <code>✿✿</code> with numbers between 1 to 10. Each lane should have a different number.</li>
-<li>Replace <code>✿✿✿</code> with numbers that equal to 160*(✿✿/✿), rounded up.</li>
+<li>Replace <code>✿✿✿</code> with numbers that equal to 160*(✿✿/✿), rounded up. The values used for calculations should be in the same lane.</li>
 <li>Replace <code>✿✿✿✿</code> with Pokemon.</li>
 </ol>
 
@@ -623,4 +582,3 @@ text
 </p></details></div><br><br>
 
 </div>
-
