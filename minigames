@@ -313,7 +313,7 @@ button {
 <ol>
 <li>Replace <code>✿</code> with numbers between 1 to 10. Each lane should have a different number.</li>
 <li>Replace <code>✿✿</code> with numbers between 1 to 10. Each lane should have a different number.</li>
-<li>Replace <code>✿✿✿</code> with numbers that equal to 160*(✿✿/✿), rounded up. The values used for calculations should be in the same lane.</li>
+<li>Replace <code>✿✿✿</code> with numbers that equal to 120*(✿✿/✿), rounded up. The values used for calculations should be in the same lane.</li>
 <li>Replace <code>✿✿✿✿</code> with Pokemon.</li>
 </ol>
 
