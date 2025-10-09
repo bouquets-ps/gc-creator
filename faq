@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-theme="light">
+<html data-theme="dark">
 <head>
 <title>PS! Game Corner Custom Minigame Creator - FAQ</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
@@ -99,8 +99,8 @@ button {
 </center>
 
 <span class="infobox"><table><tr><td>
-<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">Question?</strong></b>
-<br><br>Answer.
+<b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">Will new minigames be added?</strong></b>
+<br><br>New minigames may be added when the projects owner come up with a new idea!
 </td></tr></table><br><br></span>
 
 
