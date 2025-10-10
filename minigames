@@ -603,6 +603,39 @@ button {
 </p></details></div><br><br>
 
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -2040px"></span><strong class="searchValue">Sobble's Pokemon Cries</strong></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
+
+<ol>
+<li>Replace <code>✿</code> with Pokemon.</li>
+<li>Replace <code>✿✿</code> with one of the Pokemon that replaced <code>✿</code>.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -2040px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sobble-s-pokemon-cries-t1326.html">Sobble's Pokemon Cries</a></b><br>Guess which Pokemon have the given cry! (one guess only)<hr><center><br><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; width: 250px; overflow: hidden">
+<audio controls src="//play.pokemonshowdown.com/audio/cries/✿✿.mp3"></audio>
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">A<br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">B<br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">C<br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">D<br><psicon pokemon="✿"></div>
+<br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
+
+<br><br>PS! Command for Generating Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 4, natdex"></span>
+
+<br><br>PS! Command for Deciding Multiple Choice Answer <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/pick A, B, C, D"></span>
+
+</div>
+</p></details></div><br><br>
+
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -420px"></span><strong class="searchValue">Togetic's Trainer Cards</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
