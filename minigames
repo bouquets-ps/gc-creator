@@ -211,6 +211,8 @@ button {
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
 
+<br><br>PS! Command for Generating Random Existing Type <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text=".rextype"></span>
+
 <br><br>Bug Type <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="&lt;div style=&quot;display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center&quot;&gt;&lt;b&gt;Bug&lt;/b&gt;&lt;/div&gt;"></span>
 
 <br><br>Dark Type <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="&lt;div style=&quot;display: inline-block ; background: linear-gradient(#262626,#1a1a1a) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center&quot;&gt;&lt;b&gt;Dark&lt;/b&gt;&lt;/div&gt;"></span>
