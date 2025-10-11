@@ -674,9 +674,9 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1920px;"></span><b>Mini Type: Null's Unique Stats</b><br>Search two stats (HP, Atk, Def, SpA, SpD, Spe) in <code>/nds</code> and find a combination that only results in the given Pokemon (one guess only).<br><br><details><summary><b>Example Prompt</b></summary><p><code>HP, SpD</code> is a possible answer for Flabebe because <code>/nds hp=44, spd=79</code> results in no other Pokemon.</p></details><hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 15px"><b>Pokemon</b><br><br><b>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1920px;"></span><b>Mini Type: Null's Unique Stats</b><br>Search two stats (HP, Atk, Def, SpA, SpD, Spe) in <code>/nds</code> and find a combination that only results in the given Pokemon (one guess only).<br><br><details><summary><b>Example Prompt</b></summary><p><code>HP, SpD</code> is a possible answer for Flabebe because <code>/nds hp=44, spd=79</code> results in no other Pokemon.</p></details><hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 15px"><b>Target Pokemon</b><br><br>
 ✿
-</b></div></center>
+</div></center>
 </textarea>
 
 </div><br><br>
