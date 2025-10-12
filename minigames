@@ -747,14 +747,12 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -2040px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sobble-s-pokemon-cries-t1326.html">Sobble's Pokemon Cries</a></b><br>Guess which Pokemon have the given cry! (one guess only)<hr><center><br><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; width: 250px; overflow: hidden">
-<audio controls src="//play.pokemonshowdown.com/audio/cries/✿✿.mp3"></audio>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -2040px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sobble-s-pokemon-cries-t1326.html">Sobble's Pokemon Cries</a></b><br>Guess which Pokemon have the given cry! (one guess only)<hr><center><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 25px 5px 5px 5px ; padding: 10px; width: 270px; background: linear-gradient(#70a6db,#2e73b8); color: #ffffff"><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 25px 5px 5px 25px ; padding: 5px; width: 250px; background: linear-gradient(#6ba4d8,#5993cd); overflow: hidden"><audio controls src="//play.pokemonshowdown.com/audio/cries/✿✿.mp3"></audio>
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">A<br><psicon pokemon="✿"></div>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">B<br><psicon pokemon="✿"></div>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">C<br><psicon pokemon="✿"></div>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">D<br><psicon pokemon="✿"></div>
-<br><br></center>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>A</b><br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>B</b><br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>C</b><br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>D</b><br><psicon pokemon="✿"></div><br><br></div><br><br></center>
 </textarea>
 
 </div><br><br>
