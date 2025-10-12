@@ -109,7 +109,8 @@ textarea {
   border-radius: 5px;
   border: 1px solid var(--color-fg);
   width: 95%;
-  height: 500px;
+  field-sizing: content;
+  min-height: 4rem; /* Example: set a minimum height */
   background-color: var(--color-bg);
   color: var(--color-fg);
   transition: background-color var(--transition-speed) ease, color var(--transition-speed) ease;
