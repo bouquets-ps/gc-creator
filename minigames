@@ -519,6 +519,41 @@ button {
 </p></details></div><br><br>
 
 
+
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -1170px"></span><strong class="searchValue">Rotom's Dex Trivia</strong></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
+
+<ol>
+<li>Replace <code>✿</code> with a Pokemon.</li>
+<li>Replace <code>✿✿</code> with one of the Pokemon's dex entry, where a phrase is omitted, separating the entry into two halves.</li>
+<li>Replace <code>✿✿✿</code> with the omitted phrase and three creative fake answers.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -1170px;"></span><b>Mini Rotom's Dex Trivia</b><br>Fill in the blanks of the given dex entry! (one guess only)<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 300px; background: linear-gradient(#db8b70,#b8502e); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 270px; background: #000000; margin-bottom: 15px"><b><psicon pokemon="✿"></b><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 240px">
+✿✿
+<code>_____</code>
+✿✿
+</div></div><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 270px; background: #000000">
+<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px;"><b>A</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 160px">✿✿✿</div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px"><b></b></div><hr>
+<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px;"><b>B</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 160px">✿✿✿</div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px"><b></b></div><hr>
+<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px;"><b>C</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 160px">✿✿✿</div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px"><b></b></div><hr>
+<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px;"><b>D</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 160px">✿✿✿</div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 20px"><b></b></div>
+</div></div></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
+
+<br><br>PS! Command for Generating Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke natdex"></span>
+
+</div>
+</p></details></div><br><br>
+
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -1230px"></span><strong class="searchValue">Shaymin's Meadow</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
