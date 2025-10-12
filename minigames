@@ -565,42 +565,42 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -1230px;"></span><b>Mini Shaymin's Meadow</b><br>Try to find Shaymin by clicking on the coordinates!<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px"><table style="text-align: center"><tr>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>A1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>B1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>C1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>D1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>E1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>F1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>G1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>H1</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -1230px;"></span><b>Mini Shaymin's Meadow</b><br>Try to find Shaymin by clicking on the coordinates!<hr><center><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; color: #000000; width: 300px; height: 273px; overflow: hidden;  image-rendering: pixelated;background:transparent url(https://www.serebii.net/dungeonrescueteamdx/camp/beauplains.jpg) no-repeat scroll -0px 5px;"><table style="text-align: center"><tr>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>A1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>B1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>C1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>D1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>E1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>F1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>G1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>H1</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
 </tr><tr>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>A2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>B2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>C2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>D2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>E2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>F2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>G2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>H2</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>A2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>B2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>C2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>D2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>E2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>F2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>G2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>H2</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
 </tr><tr>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>A3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>B3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>C3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>D3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>E3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>F3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>G3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>H3</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>A3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>B3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>C3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>D3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>E3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>F3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>G3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>H3</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
 </tr><tr>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>A4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>B4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>C4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>D4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>E4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>F4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>G4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
-<td style="vertical-align: top;" height="66px" width="33px"><details><summary>H4</summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>A4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>B4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>C4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>D4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>E4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>F4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>G4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
+<td style="vertical-align: top;" height="68px" width="33px"><details><summary><b>H4</b></summary><p><img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24"></img></p></details></td>
 </tr></table></div></center>
 </textarea>
 
@@ -627,20 +627,6 @@ button {
 
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1380px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sigilyph-s-ancient-ruins-t1344.html">Sigilyph's Ancient Ruins</a></b><br>Decipher the hidden message carved in Unown runes.<hr><center>
-✿
-✿
-✿
-✿
-✿
-✿
-✿
-✿
-✿
-✿
-✿
-✿
-✿
-✿
 ✿
 </center>
 </textarea>
