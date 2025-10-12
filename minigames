@@ -676,7 +676,8 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a rescue team camp.</li>
+<li>Replace <code>✿</code> with your username.</li>
+<li>Replace <code>✿✿</code> with a rescue team camp.</li>
 </ol>
 
 </div><br><br>
@@ -684,9 +685,9 @@ button {
 
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px;"></span><b>Mini Skitty's Seek and Hide</b><br>PM <username>bouquets ✿</username> one of the following locations! However, <username>Lady Monita</username> is also a player and she will travel to a random location.<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">
-<img src="https://www.serebii.net/dungeonrescueteamdx/camp/th/✿.jpg" width="200" height="78"></img><br>✿</div>
+<img src="https://www.serebii.net/dungeonrescueteamdx/camp/th/✿✿.jpg" width="200" height="78"></img><br>✿✿</div>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px">
-<img src="https://www.serebii.net/dungeonrescueteamdx/camp/th/✿.jpg" width="200" height="78"></img><br>✿</div>
+<img src="https://www.serebii.net/dungeonrescueteamdx/camp/th/✿✿.jpg" width="200" height="78"></img><br>✿✿</div>
 </center>
 </textarea>
 
