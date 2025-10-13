@@ -182,6 +182,47 @@ button {
         Skitty used Copycat!
     </div>
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -150px"></span><strong class="searchValue">Alakazam's Total Recall</strong></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
+
+<ol>
+<li>Replace <code>✿</code> with Pokemon.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -150px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/alakazam-s-total-recall-t1256.html">Alakazam's Total Recall</a></b><br>Try to memorize each Pokemon's coordinates! The prompt will be displayed shortly.
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Answer</b><br><br>
+
+<textarea>
+!htmlbox <center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px 5px 5px 5px ; padding: 5px; width: 186px; background: linear-gradient(#db70db,#b72eb8); color: #ffffff">
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>A1</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>B1</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>C1</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>A2</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>B2</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>C2</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>A3</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>B3</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>C3</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
+</div></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
+
+<br><br>PS! Command for Generating Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke natdex"></span>
+
+</div>
+</p></details></div><br><br>
+
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -240px -1500px"></span><strong class="searchValue">Beheeyem's Inverse Mass Effect</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
