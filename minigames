@@ -505,13 +505,13 @@ button {
 
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -3300px"></span><strong class="searchValue">Kangaskhan's 2 × 100M Relay</strong></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations (will be updated to make it more clear)</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with numbers between 1 to 10. Each lane should have a different number.</li>
-<li>Replace <code>✿✿</code> with numbers between 1 to 10. Each lane should have a different number.</li>
+<li>Replace <code>✿</code> with 4 different numbers between 1 to 10.</li>
+<li>Replace <code>✿✿</code> with 4 different numbers between 1 to 10.</li>
 <li>Replace <code>✿✿✿</code> with numbers that equal to 120*(✿✿/✿), rounded up. The values used for calculations should be in the same lane.</li>
-<li>Replace <code>✿✿✿✿</code> with Pokemon.</li>
+<li>Replace <code>✿✿✿✿</code> with 8 different Pokemon names.</li>
 </ol>
 
 </div><br><br>
@@ -549,9 +549,9 @@ button {
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
 
-<br><br>PS! Command for Shuffling Numbers <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/shuffle 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"></span>
+<br><br>PS! Command for Generating a Number Between 1 and 10 <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/pick 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"></span>
 
-<br><br>PS! Command for Generating Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 8, natdex"></span>
+<br><br>PS! Command for Generating 8 Random Pokemon Names<span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 8, natdex"></span>
 
 </div>
 </p></details></div><br><br>
