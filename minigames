@@ -975,30 +975,4 @@ button {
 </div>
 </p></details></div><br><br>
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1920px"></span><strong class="searchValue">Type: Null's Unique Stats</strong></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
-
-<ol>
-<li>Replace <code>✿</code> with a Pokemon.</li>
-</ol>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
-
-<textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1920px;"></span><b>Mini Type: Null's Unique Stats</b><br>Search two stats (HP, Atk, Def, SpA, SpD, Spe) in <code>/nds</code> and find a combination that only results in the given Pokemon (one guess only).<br><br><details><summary><b>Example Prompt</b></summary><p><code>HP, SpD</code> is a possible answer for Flabebe because <code>/nds hp=44, spd=79</code> results in no other Pokemon.</p></details><hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 15px"><b>Target Pokemon</b><br><br>
-✿
-</div></center>
-</textarea>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
-
-<br><br>PS! Command for Generating Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke natdex"></span>
-
-</div>
-</p></details></div><br><br>
-
-
-
 </div>
