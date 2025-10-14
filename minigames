@@ -383,7 +383,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with Diglett, Dugtrio, Excadrill, or blank icons.</li>
+<li>Replace <code>✿</code> with 3 Diglett, 2 Dugtrio, 1 Excadrill, and 3 blank icons.</li>
 </ol>
 
 </div><br><br>
@@ -422,7 +422,7 @@ button {
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
 
-<br><br>PS! Command for Shuffling Pokemon Order <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/shuffle diglett, diglett, diglett, dugtrio, dugtrio, excadrill, blank, blank, blank"></span> 
+<br><br>PS! Command for Shuffling Icon Order <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/shuffle diglett, diglett, diglett, dugtrio, dugtrio, excadrill, blank, blank, blank"></span> 
 
 <br><br>Diglett Icon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="&lt;marquee behavior=&quot;slide&quot; height=&quot;30&quot; scrolldelay=&quot;0&quot; scrollamount=&quot;3&quot; direction=&quot;up&quot;&gt;&lt;psicon pokemon=&quot;diglett&quot;&gt;&lt;/marquee&gt;&lt;/div&gt;"></span>  
 
@@ -441,7 +441,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with Pokemon.</li>
+<li>Replace <code>✿</code> with 5 different Pokemon names.</li>
 <li>OPTIONAL: Replace the <code>-0</code> in <code>-0px -0px</code> with positive numbers (e.g. <code>5px 10px</code>) to move Pokemon right or down.</li>
 </ol>
 
@@ -449,7 +449,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px;"></span><b>Mini Fidough's Sandwiched Pokemon</b><br>Name all five Pokemon that are stacked on top of each other.<br>This minigame may not render properly on certain browsers.<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px; height: 200px"><marquee behavior="slide" width="200" scrollamount="3" direction="right">
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px;"></span><b>Mini Fidough's Sandwiched Pokemon</b><br>Name all five Pokemon that are stacked on top of each other.<br><br>This minigame may not render properly on certain browsers.<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px; height: 200px"><marquee behavior="slide" width="200" scrollamount="3" direction="right">
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
 <span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px">
@@ -461,7 +461,7 @@ button {
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
 
-<br><br>PS! Command for Generating Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 5, natdex"></span>
+<br><br>PS! Command for Generating 5 Random Pokemon Names <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 5, natdex"></span>
 
 </div>
 </p></details></div><br><br>
