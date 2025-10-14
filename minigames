@@ -505,7 +505,7 @@ button {
 
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -3300px"></span><strong class="searchValue">Kangaskhan's 2 × 100M Relay</strong></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations (will be updated to make it more clear)</b><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations (note: should be updated to be more clear)</b><br>
 
 <ol>
 <li>Replace <code>✿</code> with 4 different numbers between 1 to 10.</li>
@@ -558,11 +558,11 @@ button {
 
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -870px"></span><strong class="searchValue">Kecleon's Camouflage</strong></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Instructions</b><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a rescue team camp.</li>
-<li>Replace <code>✿✿</code> with a Pokemon.</li>
+<li>Replace <code>✿</code> with a rescue team camp name.</li>
+<li>Replace <code>✿✿</code> with a Pokemon name.</li>
 <li>Replace <code>✿✿✿</code> with a number between 0 and 604.</li>
 <li>Replace <code>✿✿✿✿</code> with a number between 0 and 177.</li>
 </ol>
@@ -571,7 +571,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -870px;"></span><b>Mini Kecleon's Camouflage</b><br>Find and name the hidden Pokemon!<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 96px; height: 273px"><marquee loop="-1" width="96" scrollamount="3"><span style="display: inline-block; width: 96px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/flabebe-blue.gif) no-repeat scroll -999px -999px;"></span>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -870px;"></span><b>Mini Kecleon's Camouflage</b><br>Find and name the hidden Pokemon!<br><br>Artwork from <a href="https://www.serebii.net/dungeonrescueteamdx/rescueteamcamp.shtml">Pokemon Mystery Dungeon Rescue Team DX</a>.<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 96px; height: 273px"><marquee loop="-1" width="96" scrollamount="3"><span style="display: inline-block; width: 96px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/flabebe-blue.gif) no-repeat scroll -999px -999px;"></span>
 <span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://www.serebii.net/dungeonrescueteamdx/camp/✿.jpg) no-repeat scroll -0px -0px;">
 <span style="display: inline-block; width: 700px; height: 273px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/gen5/✿✿.png) no-repeat scroll ✿✿✿px ✿✿✿✿px; opacity: 0.2"></span></span>
 </marquee></div></center>
@@ -588,13 +588,13 @@ button {
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
 
-<br><br>PS! Command for Generating Random Rescue Team Camp <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/pick wildplains, sky-blueplains, beauplains, thundercrag, powerplant, mt.discipline, mt.green, mt.cleft, stumpforest, flyawayforest, secretiveforest, vibrantforest, mushroomforest, overgrownforest, jungle, poisonswamp, safari, witheringdesert, ravagedfield, scorchedplains, crater, echocave, bouldercave, frigidcavern, tadpolepond, turtleshellpond, rub-a-dubriver, gourdswamp, icefloebeach, shallowbeach, bountifulsea, serenesea, treasuresea, deepseafloor, decrepitlab, waterfalllake, evolutionforest, mysticlake, magneticquarry, dragoncave, agedchambera-n, agedchambero-qm, ancientrelic, mt.moonview, darknessridge, legendaryisland, crypticcave, finalisland, sacredfield, deepseacurrent, rainbowpeak, healingforest, southernisland, seafloorcave, volcanicpit, stratoslookout, enclosedisland"></span>
+<br><br>PS! Command for Generating a Random Rescue Team Camp Name <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/pick wildplains, sky-blueplains, beauplains, thundercrag, powerplant, mt.discipline, mt.green, mt.cleft, stumpforest, flyawayforest, secretiveforest, vibrantforest, mushroomforest, overgrownforest, jungle, poisonswamp, safari, witheringdesert, ravagedfield, scorchedplains, crater, echocave, bouldercave, frigidcavern, tadpolepond, turtleshellpond, rub-a-dubriver, gourdswamp, icefloebeach, shallowbeach, bountifulsea, serenesea, treasuresea, deepseafloor, decrepitlab, waterfalllake, evolutionforest, mysticlake, magneticquarry, dragoncave, agedchambera-n, agedchambero-qm, ancientrelic, mt.moonview, darknessridge, legendaryisland, crypticcave, finalisland, sacredfield, deepseacurrent, rainbowpeak, healingforest, southernisland, seafloorcave, volcanicpit, stratoslookout, enclosedisland"></span>
 
-<br><br>PS! Command for Generating Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke natdex"></span>
+<br><br>PS! Command for Generating a Random Pokemon Name <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke natdex"></span>
 
-<br><br>PS! Command for Generating Random Number (0 to 604) <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/roll 605-1"></span>
+<br><br>PS! Command for Generating a Random Number Between 0 and 604 <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/roll 605-1"></span>
 
-<br><br>PS! Command for Generating Random Number (0 to 177) <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/roll 178-1"></span>
+<br><br>PS! Command for Generating a Random Number Between 0 and 177 <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/roll 178-1"></span>
 
 </div>
 </p></details></div><br><br>
