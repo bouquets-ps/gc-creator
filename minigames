@@ -446,7 +446,7 @@ Where was ✿✿?
 
 
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px"></span><strong class="searchValue">Fidough's Sandwiched Pokemon (note: allegedly does not render properly on DuckDuckGo)</strong></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -2310px"></span><strong class="searchValue">Fidough's Sandwiched Pokemon (note: allegedly does not render properly on DuckDuckGo, should try to fix)</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
@@ -733,12 +733,13 @@ Where was ✿✿?
 
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -1170px"></span><strong class="searchValue">Rotom's Dex Trivia</strong></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations (note: should be updated to be more clear)</b><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
 <li>Replace <code>✿</code> with a Pokemon name.</li>
-<li>Replace <code>✿✿</code> with one of the Pokemon's dex entries, splitted into two halves, separated by the omitted answer.</li>
-<li>Replace one of the <code>✿✿✿</code> with the omitted phrase.</li>
+<li>Replace <code>✿✿</code> with one of the Pokemon's dex entries.</li>
+<li>Replace your answer in the dex entry with blanks, which can be copied below.</li>
+<li>Replace one of the <code>✿✿✿</code> with your answer.</li>
 <li>Replace the remaining three <code>✿✿✿</code> with creative fake answers.</li>
 </ol>
 
@@ -747,8 +748,6 @@ Where was ✿✿?
 
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -1170px;"></span><b>Mini Rotom's Dex Trivia</b><br>Fill in the blanks of the given dex entry! (one guess only)<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 300px; background: linear-gradient(#db8b70,#b8502e); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 270px; background: #000000; margin-bottom: 15px"><b><psicon pokemon="✿"></b><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 240px">
-✿✿
-<code>_____</code>
 ✿✿
 </div></div><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 270px; background: #000000">
 <div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 5px;"><b>A</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 190px">✿✿✿</div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 5px"><b></b></div><hr>
@@ -762,6 +761,8 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Skitty's Toys</b>
 
 <br><br>PS! Command for Generating a Random Pokemon Name <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke natdex"></span>
+
+<br><br>Blanks <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="&lt;code&gt;_____&lt;code&gt;"></span>
 
 </div>
 </p></details></div><br><br>
