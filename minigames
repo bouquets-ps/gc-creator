@@ -186,7 +186,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 9 different Pokemon names.</li>
+<li>Replace each <code>✿</code> with a different Pokemon name.</li>
 </ol>
 
 </div><br><br>
@@ -348,8 +348,9 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 10 different Pokemon names.</li>
-<li>Replace <code>✿✿</code> with 9 different Pokemon names used in <code>✿</code> and 1 new Pokemon name.</li>
+<li>Replace each <code>✿</code> with a different Pokemon name.</li>
+<li>Replace each <code>✿✿</code> with the same Pokemon names used in <code>✿</code>, but the name order should be shuffled.</li>
+<li>Replace 1 of the Pokemon names used in <code>✿✿</code> with a new Pokemon name.</li>
 </ol>
 
 </div><br><br>
@@ -383,7 +384,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 3 Diglett, 2 Dugtrio, 1 Excadrill, and 3 blank icons.</li>
+<li>Replace each <code>✿</code> with a Diglett, Dugtrio, Excadrill, or blank icon.</li>
 </ol>
 
 </div><br><br>
