@@ -442,7 +442,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 5 different Pokemon names.</li>
+<li>Replace each <code>✿</code> with a different Pokemon name.</li>
 <li>OPTIONAL: Replace the <code>-0</code> in <code>-0px -0px</code> with positive numbers (e.g. <code>5px 10px</code>) to move Pokemon right or down.</li>
 </ol>
 
@@ -472,8 +472,8 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 10 different Pokemon names.</li>
-<li>Delete <code>-shiny</code> in 1 of the <code>ani-shiny</code>.</li>
+<li>Replace each <code>✿</code> with a different Pokemon name.</li>
+<li>Delete <code>-shiny</code> in one of the <code>ani-shiny</code>.</li>
 </ol>
 
 </div><br><br>
@@ -509,10 +509,10 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations (note: should be updated to be more clear)</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 4 different numbers between 1 to 10.</li>
-<li>Replace <code>✿✿</code> with 4 different numbers between 1 to 10.</li>
-<li>Replace <code>✿✿✿</code> with numbers that equal to 120*(✿✿/✿), rounded up. The values used for calculations should be in the same lane.</li>
-<li>Replace <code>✿✿✿✿</code> with 8 different Pokemon names.</li>
+<li>Replace each <code>✿</code> with a different number between 1 and 10.</li>
+<li>Replace each <code>✿✿</code> with a different number between 1 tand 10.</li>
+<li>Replace each <code>✿✿✿</code> with a number that equals to 120*(✿✿/✿), rounded up. The values used for calculations should be in the same lane.</li>
+<li>Replace each <code>✿✿✿✿</code> with a different Pokemon name.</li>
 </ol>
 
 </div><br><br>
@@ -562,7 +562,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a rescue team camp name.</li>
+<li>Replace <code>✿</code> with a rescue team camp name, which can be generated using the command below.</li>
 <li>Replace <code>✿✿</code> with a Pokemon name.</li>
 <li>Replace <code>✿✿✿</code> with a number between 0 and 604.</li>
 <li>Replace <code>✿✿✿✿</code> with a number between 0 and 177.</li>
@@ -605,7 +605,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations (note: should be updated to be more clear)</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a category related to your answer.</li>
+<li>Replace <code>✿</code> with a category that is related to your answer.</li>
 <li>Replace a few of the <code>&amp;nbsp;</code> with letters from your answer.</li>
 <li>SITUATIONAL: Delete unnecessary lines if your answer has less then 10 letters.</li>
 </ol>
@@ -651,7 +651,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 3 different colour blocks.</li>
+<li>Replace each <code>✿</code> with a different colour block, which can be copied below.</li>
 </ol>
 
 </div><br><br>
@@ -730,7 +730,8 @@ button {
 <ol>
 <li>Replace <code>✿</code> with a Pokemon name.</li>
 <li>Replace <code>✿✿</code> with one of the Pokemon's dex entries, where a phrase is omitted, separating the entry into two halves.</li>
-<li>Replace <code>✿✿✿</code> with the omitted phrase and three creative fake answers.</li>
+<li>Replace one of the <code>✿✿✿</code> with the omitted phrase.</li>
+<li>Replace the remaining three <code>✿✿✿</code> with creative fake answers.</li>
 </ol>
 
 </div><br><br>
@@ -762,7 +763,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace one of the <code>&lt;img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24">&lt;/img></code> with Shaymin icon.</li>
+<li>Replace one of the <code>&lt;img src="https://play.pokemonshowdown.com/sprites/itemicons/gracidea.png" width="24" height="24">&lt;/img></code> with Shaymin icon, which can be copied below.</li>
 </ol>
 
 </div><br><br>
@@ -902,8 +903,8 @@ button {
 
 <ol>
 <li>Replace <code>✿</code> with your username.</li>
-<li>Replace <code>✿✿</code> with 2 different Pokemon names.</li>
-<li>Replace <code>✿✿✿</code> with 1 of the Pokemon names used in <code>✿✿</code>.
+<li>Replace each <code>✿✿</code> with a different Pokemon name.</li>
+<li>Replace <code>✿✿✿</code> with one of the Pokemon names used to replace <code>✿✿</code>.
 </ol>
 
 </div><br><br>
@@ -929,8 +930,8 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with 4 different Pokemon names.</li>
-<li>Replace <code>✿✿</code> with 1 of the Pokemon names used in <code>✿</code>.</li>
+<li>Replace each <code>✿</code> with a different Pokemon name.</li>
+<li>Replace <code>✿✿</code> with one of the Pokemon names that is used to replace <code>✿</code>.</li>
 </ol>
 
 </div><br><br>
@@ -958,7 +959,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a trainer card's code from the User Museum's raw content. Any line that starts with <code>&lt;span class="infobox" style="display: inline-block ; width: 250px"></code> and ends with <code>&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/span&gt;</code> is a trainer card's code.</li>
+<li>Replace <code>✿</code> with a trainer card's code from the User Museum's raw content (linked below). Any line that starts with <code>&lt;span class="infobox" style="display: inline-block ; width: 250px"></code> and ends with <code>&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/span&gt;</code> is a trainer card's code.</li>
 <li>Delete the username.</li>
 <li>Delete <code>&lt;b>Last updated:&lt;/b> yyyy-mm-dd&lt;br>&lt;br></code>, where <code>yyyy-mm-dd</code> can be any number.</li>
 <li>SITUATIONAL: Delete <code>"</code> in <code>width="80px" height="80px"</code> if it is in the code.</li>
