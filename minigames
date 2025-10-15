@@ -358,7 +358,7 @@ Where was ✿✿?
 <ol>
 <li>Replace each <code>✿</code> with a different Pokemon name.</li>
 <li>Replace one of the <code>✿✿</code> with a Pokemon name that is not used in <code>✿</code>.</li>
-<li>Replace the remaining nine <code>✿✿</code> with Pokemon names that are used in <code>✿</code>.</li>
+<li>Replace each of the remaining <code>✿✿</code> with a different Pokemon name that is used to replace <code>✿</code>.</li>
 </ol>
 
 </div><br><br>
@@ -392,7 +392,7 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace each <code>✿</code> with a Diglett, Dugtrio, Excadrill, or blank icon.</li>
+<li>Replace each <code>✿</code> with a Diglett, Dugtrio, Excadrill, or blank icon, which can be copied below.</li>
 </ol>
 
 </div><br><br>
@@ -570,7 +570,7 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a rescue team camp name, which can be generated using the command below.</li>
+<li>Replace <code>✿</code> with a rescue team camp name, which can be generated using the copyable command below.</li>
 <li>Replace <code>✿✿</code> with a Pokemon name.</li>
 <li>Replace <code>✿✿✿</code> with a number between 0 and 604.</li>
 <li>Replace <code>✿✿✿✿</code> with a number between 0 and 177.</li>
