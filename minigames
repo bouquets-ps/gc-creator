@@ -228,7 +228,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code>, <code>✿✿</code>, <code>✿✿✿</code>, and <code>✿✿✿✿</code> with type blocks that deal ×4, ×2, ×1/2, and ×1/4 damage respectively to your Pokemon in inverse mode.</li>
+<li>Replace <code>✿</code>, <code>✿✿</code>, <code>✿✿✿</code>, and <code>✿✿✿✿</code> with type blocks that deal ×4, ×2, ×1/2, and ×1/4 damage respectively to your Pokemon in inverse mode. Type blocks can be copied below.</li>
 <li>SITUATIONAL: Delete all remaining <code>✿</code>, <code>✿✿</code>, <code>✿✿✿</code>, and <code>✿✿✿✿</code> if they have not been replaced.</li>
 </ol>
 
@@ -303,7 +303,7 @@ button {
 
 <ol>
 <li>Replace <code>✿</code> with your username.</li>
-<li>Replace <code>✿✿</code> with 6 to 15 Crustle icons.</li>
+<li>Replace <code>✿✿</code> with 6 to 15 Crustle icons, which can be copied below.</li>
 </ol>
 
 </div><br><br>
@@ -349,8 +349,8 @@ button {
 
 <ol>
 <li>Replace each <code>✿</code> with a different Pokemon name.</li>
-<li>Replace each <code>✿✿</code> with the same Pokemon names used in <code>✿</code>, but the name order should be shuffled.</li>
-<li>Replace 1 of the Pokemon names used in <code>✿✿</code> with a new Pokemon name.</li>
+<li>Replace all but one <code>✿✿</code> with the same Pokemon names used in <code>✿</code>, but the name order should be shuffled.</li>
+<li>Replace the last <code>✿✿</code> with a Pokemon name not used in <code>✿</code>.</li>
 </ol>
 
 </div><br><br>
