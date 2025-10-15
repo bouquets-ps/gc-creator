@@ -187,6 +187,7 @@ button {
 
 <ol>
 <li>Replace each <code>✿</code> with a different Pokemon name.</li>
+<li>Replace <code>✿✿</code> with one of the Pokemon names that is used to replace <code>✿</code>.</li>
 </ol>
 
 </div><br><br>
@@ -213,6 +214,13 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>B3</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 3px; background: #000000"><b>C3</b><br><td><marquee loop="1" width="40" scrolldelay="500"><psicon pokemon="✿"></marquee></td></div>
 </div></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 3)</b><br><br>
+
+<textarea>
+Where was ✿✿?
 </textarea>
 
 </div><br><br>
@@ -349,8 +357,8 @@ button {
 
 <ol>
 <li>Replace each <code>✿</code> with a different Pokemon name.</li>
-<li>Replace all but one <code>✿✿</code> with the same Pokemon names used in <code>✿</code>, but the name order should be shuffled.</li>
-<li>Replace the last <code>✿✿</code> with a Pokemon name not used in <code>✿</code>.</li>
+<li>Replace one of the <code>✿✿</code> with a Pokemon name that is not used in <code>✿</code>.</li>
+<li>Replace the remaining nine <code>✿✿</code> with Pokemon names that are used in <code>✿</code>.</li>
 </ol>
 
 </div><br><br>
@@ -511,7 +519,7 @@ button {
 <ol>
 <li>Replace each <code>✿</code> with a different number between 1 and 10.</li>
 <li>Replace each <code>✿✿</code> with a different number between 1 tand 10.</li>
-<li>Replace each <code>✿✿✿</code> with a number that equals to 120*(✿✿/✿), rounded up. The values used for calculations should be in the same lane.</li>
+<li>Replace each <code>✿✿✿</code> with a number that equals to 120*(<code>✿✿</code>/<code>✿</code>), rounded up. The values used for calculations should be in the same lane.</li>
 <li>Replace each <code>✿✿✿✿</code> with a different Pokemon name.</li>
 </ol>
 
@@ -729,7 +737,7 @@ button {
 
 <ol>
 <li>Replace <code>✿</code> with a Pokemon name.</li>
-<li>Replace <code>✿✿</code> with one of the Pokemon's dex entries, where a phrase is omitted, separating the entry into two halves.</li>
+<li>Replace <code>✿✿</code> with one of the Pokemon's dex entries, splitted into two halves, separated by the omitted answer.</li>
 <li>Replace one of the <code>✿✿✿</code> with the omitted phrase.</li>
 <li>Replace the remaining three <code>✿✿✿</code> with creative fake answers.</li>
 </ol>
@@ -904,7 +912,7 @@ button {
 <ol>
 <li>Replace <code>✿</code> with your username.</li>
 <li>Replace each <code>✿✿</code> with a different Pokemon name.</li>
-<li>Replace <code>✿✿✿</code> with one of the Pokemon names used to replace <code>✿✿</code>.
+<li>Replace <code>✿✿✿</code> with one of the Pokemon names that is used to replace <code>✿✿</code>.
 </ol>
 
 </div><br><br>
