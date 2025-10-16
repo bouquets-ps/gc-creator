@@ -77,14 +77,13 @@ button.addEventListener("click", (event) => {
     cursor: pointer;
     margin: 10px 5px 10px 5px;
     padding: 5px 10px 5px 10px;
-    color: orange;
-    border: 1px solid orange;
+    font-family: "Consolas";
+    border: 1px solid green;
     border-radius: 5px;
     display: inline-block;
 }
 
-.copyable-item:hover {
-    color: var(--color-fg);
+.copyable-item:hover {    
     border: 1px solid var(--color-fg);
 }
 
