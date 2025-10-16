@@ -660,7 +660,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a trainer card's code from the User Museum's raw content (<a style="text-decoration:none; color: cyan" href="https://raw.githubusercontent.com/bouquets-ps/gc-museum/refs/heads/main/trainer-card">linked here</a>). Any line that starts with <code>&lt;span class="infobox" style="display: inline-block ; width: 250px"></code> and ends with <code>&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/span&gt;</code> is a trainer card's code.</li>
+<li>Replace <code>✿</code> with a trainer card's code from the User Museum's raw content, which is linked below. Any line that starts with <code>&lt;span class="infobox" style="display: inline-block ; width: 250px"></code> and ends with <code>&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/span&gt;</code> is a trainer card's code.</li>
 <li>Delete the username.</li>
 <li>Delete <code>&lt;b>Last updated:&lt;/b> yyyy-mm-dd&lt;br>&lt;br></code>, where <code>yyyy-mm-dd</code> can be any number.</li>
 <li>SITUATIONAL: Delete <code>"</code> in <code>width="80px" height="80px"</code> if that is in the code.</li>
@@ -674,6 +674,13 @@ button {
 ✿
 </center>
 </textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">Link</td><td><span class="copyable-item" data-copy-text="https://raw.githubusercontent.com/bouquets-ps/gc-museum/refs/heads/main/trainer-card">User Museum's Raw Content</span></td></tr>
+</table>
 
 </div>
 </p></details></div><br><br>
