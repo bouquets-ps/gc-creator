@@ -75,8 +75,8 @@ button.addEventListener("click", (event) => {
 <style>
 .copyable-item {
     cursor: pointer;
-    margin: 5px;
-    padding: 5px;
+    margin: 10px 5px 10px 5px;
+    padding: 5px 10px 5px 10px;
     border: 1px solid var(--color-fg);
     border-radius: 5px;
     display: inline-block;
@@ -217,7 +217,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
 <table>
-<tr><td>Lady Monita's PM Command</td><td><span class="copyable-item" data-copy-text=".rextype">Generate a Random Existing Type</span></td></tr>
+<tr><td style="width: 150px">Lady Monita's PM Command</td><td><span class="copyable-item" data-copy-text=".rextype">Generate a Random Existing Type</span></td></tr>
 
 <tr><td>PS! Command</td><td><span class="copyable-item" data-copy-text="/weak inverse, type, type">View a Typing's Weaknesses and Resistances in Inverse Mode</span></td></tr>
 
@@ -586,7 +586,7 @@ button {
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
 <table>
 <tr><td>Unown GIFs</td><td><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown.gif&quot; width=&quot;25&quot; height=&quot;45&quot;&gt;&lt;/img&gt;">A</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-b.gif&quot; width=&quot;24&quot; height=&quot;42&quot;&gt;&lt;/img&gt;">B</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-c.gif&quot; width=&quot;28&quot; height=&quot;47&quot;&gt;&lt;/img&gt;">C</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-d.gif&quot; width=&quot;28&quot; height=&quot;44&quot;&gt;&lt;/img&gt;">D</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-e.gif&quot; width=&quot;29&quot; height=&quot;41&quot;&gt;&lt;/img&gt;">E</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-f.gif&quot; width=&quot;30&quot; height=&quot;41&quot;&gt;&lt;/img&gt;">F</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-g.gif&quot; width=&quot;22&quot; height=&quot;46&quot;&gt;&lt;/img&gt;">G</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-h.gif&quot; width=&quot;33&quot; height=&quot;42&quot;&gt;&lt;/img&gt;">H</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-i.gif&quot; width=&quot;19&quot; height=&quot;42&quot;&gt;&lt;/img&gt;">I</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-j.gif&quot; width=&quot;25&quot; height=&quot;40&quot;&gt;&lt;/img&gt;">J</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-k.gif&quot; width=&quot;26&quot; height=&quot;41&quot;&gt;&lt;/img&gt;">K</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-l.gif&quot; width=&quot;25&quot; height=&quot;38&quot;&gt;&lt;/img&gt;">L</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-m.gif&quot; width=&quot;32&quot; height=&quot;36&quot;&gt;&lt;/img&gt;">M</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-n.gif&quot; width=&quot;34&quot; height=&quot;35&quot;&gt;&lt;/img&gt;">N</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-o.gif&quot; width=&quot;50&quot; height=&quot;43&quot;&gt;&lt;/img&gt;">O</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-p.gif&quot; width=&quot;23&quot; height=&quot;38&quot;&gt;&lt;/img&gt;">P</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-q.gif&quot; width=&quot;27&quot; height=&quot;33&quot;&gt;&lt;/img&gt;">Q</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-r.gif&quot; width=&quot;23&quot; height=&quot;37&quot;&gt;&lt;/img&gt;">R</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-s.gif&quot; width=&quot;28&quot; height=&quot;51&quot;&gt;&lt;/img&gt;">S</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-t.gif&quot; width=&quot;30&quot; height=&quot;38&quot;&gt;&lt;/img&gt;">T</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-u.gif&quot; width=&quot;38&quot; height=&quot;37&quot;&gt;&lt;/img&gt;">U</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-v.gif&quot; width=&quot;33&quot; height=&quot;41&quot;&gt;&lt;/img&gt;">V</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-w.gif&quot; width=&quot;38&quot; height=&quot;36&quot;&gt;&lt;/img&gt;">W</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-x.gif&quot; width=&quot;28&quot; height=&quot;33&quot;&gt;&lt;/img&gt;">X</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-y.gif&quot; width=&quot;28&quot; height=&quot;41&quot;&gt;&lt;/img&gt;">Y</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-z.gif&quot; width=&quot;21&quot; height=&quot;44&quot;&gt;&lt;/img&gt;">Z</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-exclamation.gif&quot; width=&quot;32&quot; height=&quot;45&quot;&gt;&lt;/img&gt;">!</span><span class="copyable-item" data-copy-text="&lt;img src=&quot;https://play.pokemonshowdown.com/sprites/gen5ani/unown-question.gif&quot; width=&quot;26&quot; height=&quot;46&quot;&gt;&lt;/img&gt;">?</span></td></tr>
@@ -595,7 +595,7 @@ button {
 </div>
 </p></details></div><br><br>
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="meow"></span><strong class="searchValue">Skitty's Unfair Seek and Hide</strong></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px"></span><strong class="searchValue">Skitty's Unfair Seek and Hide</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
@@ -615,9 +615,11 @@ button {
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Skitty to use Copycat!</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
-<br><br>PS! Command for Generating 2 Random Pokemon Names <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 2, natdex"></span>
+<table>
+<tr><td>PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke 2, natdex">Generate 2 Random Pokemon Names</span></td></tr>
+</table>
 
 </div>
 </p></details></div><br><br>
@@ -644,9 +646,11 @@ button {
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Skitty to use Copycat!</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
-<br><br>PS! Command for Generating 4 Random Pokemon Names <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 4, natdex"></span>
+<table>
+<tr><td>PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke 4, natdex">Generate 4 Random Pokemon Names</span></td></tr>
+</table>
 
 </div>
 </p></details></div><br><br>
