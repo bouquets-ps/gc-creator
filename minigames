@@ -474,9 +474,9 @@ button {
 <ol>
 <li>Replace <code>✿</code> with a Pokemon name.</li>
 <li>Replace <code>✿✿</code> with one of the Pokemon's dex entries.</li>
-<li>Replace your answer in the dex entry with blanks, which must be copied below.</li>
-<li>Replace one of the <code>✿✿✿</code> with your answer.</li>
-<li>Replace the remaining three <code>✿✿✿</code> with creative fake answers.</li>
+<li>Replace a phrase in the dex entry with blanks, which must be copied below.</li>
+<li>Replace one of the <code>✿✿✿</code> with said phrase.</li>
+<li>Replace the remaining three <code>✿✿✿</code> with fabricated phrases.</li>
 </ol>
 
 </div><br><br>
