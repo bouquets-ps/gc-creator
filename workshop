@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html data-theme="dark">
 <head>
-<title>PS! Game Corner Custom Minigame Creator - Workshop</title>
+<title>PS! Game Corner Custom Minigame Creator - Minigames</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
 <script>
 document.addEventListener('DOMContentLoaded', () => {
@@ -75,15 +75,21 @@ button.addEventListener("click", (event) => {
 <style>
 .copyable-item {
     cursor: pointer;
+    margin: 10px 5px 10px 5px;
+    padding: 5px 10px 5px 10px;
+    font-family: "Consolas", "Liberation Mono", "Courier New", monospace;
+    border: 1px solid green;
+    border-radius: 5px;
+    display: inline-block;
 }
 
-.copyable-item:hover {
-    color: var(--color-fg);
+.copyable-item:hover {    
+    border: 1px solid var(--color-fg);
 }
 
 .popup {
     position: fixed;
-    bottom: 20px;
+    bottom: 50%;
     left: 50%;
     transform: translateX(-50%);
     background-color: #333;
@@ -107,7 +113,7 @@ code {
 textarea {
   padding: 25px;
   border-radius: 5px;
-  border: 1px solid var(--color-fg);
+  border: 1px solid green;
   width: 95%;
   field-sizing: content;
   min-height: 4rem; /* Example: set a minimum height */
@@ -156,7 +162,8 @@ button {
 <center>
 <h1><table><tr><td>PS! Game Corner Custom Minigame Creator</td></tr></table></h1>
 <h3><span style="letter-spacing:5px;"><table><tr>
-<td>WORKSHOP</td>
+<td>MINIGAMES</td>
+<td style="width: 50px"></td><td><a style="text-decoration:none; color: silver" href="https://htmlpreview.github.io/?https://github.com/bouquets-ps/gc-creator/blob/main/faq">FAQ</a></td>
 </tr></table></span></h3>
 </center>
 
@@ -171,15 +178,13 @@ button {
 
 <br><br>
 
-<h3>Welcome.</h3><br>
+<h3>If you are unfamiliar with a minigame, you may replace <code>!htmlbox</code> with <code>/htmlbox</code> to view the prompts privately on PS!.</h3><br>
 
 </center>
 
 <div id = "container">
 
-<div id="copy-feedback-popup" class="popup">
-        Skitty used Copycat!
-    </div>
+<div id="copy-feedback-popup" class="popup"><center><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px"></span><br>Skitty used Copycat!</center></div>
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -150px"></span><strong class="searchValue">Alakazam's Total Recall <code>(can cheat by switching tabs at the right timing)</code></strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
@@ -223,9 +228,11 @@ Where was ✿✿?
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Skitty to use Copycat!</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b>
 
-<br><br>PS! Command for Generating 9 Random Pokemon Names <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 9, natdex"></span>
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke 9, natdex">Generate 9 Random Pokemon Names</span></td></tr>
+</table>
 
 </div>
 </p></details></div><br><br>
@@ -253,9 +260,11 @@ Where was ✿✿?
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Skitty to use Copycat!</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b>
 
-<br><br>PS! Command for Generating 5 Random Pokemon Names <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 5, natdex"></span>
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke 5, natdex">Generate 5 Random Pokemon Names</span></td></tr>
+</table>
 
 </div>
 </p></details></div><br><br>
@@ -304,11 +313,11 @@ Where was ✿✿?
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Skitty to use Copycat!</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b>
 
-<br><br>PS! Command for Generating a Number Between 1 and 10 <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/pick 1, 2, 3, 4, 5, 6, 7, 8, 9, 10"></span>
-
-<br><br>PS! Command for Generating 8 Random Pokemon Names<span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke 8, natdex"></span>
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/pick 1, 2, 3, 4, 5, 6, 7, 8, 9, 10">Generate a Number Between 1 and 10</span><span class="copyable-item" data-copy-text="/randpoke 8, natdex">Generate 8 Random Pokemon Names</span></td></tr>
+</table>
 
 </div>
 </p></details></div><br><br>
@@ -353,9 +362,11 @@ Where was ✿✿?
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Skitty to use Copycat!</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b>
 
-<br><br>PS! Command for Generating a Random Pokemon <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/randpoke natdex"></span>
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+</table>
 
 </div>
 </p></details></div><br><br>
