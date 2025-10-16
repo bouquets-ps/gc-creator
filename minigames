@@ -113,7 +113,7 @@ code {
 textarea {
   padding: 25px;
   border-radius: 5px;
-  border: 1px solid var(--color-fg);
+  border: 1px solid green;
   width: 95%;
   field-sizing: content;
   min-height: 4rem; /* Example: set a minimum height */
