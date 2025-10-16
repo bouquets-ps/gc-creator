@@ -75,15 +75,18 @@ button.addEventListener("click", (event) => {
 <style>
 .copyable-item {
     cursor: pointer;
+    text-decoration-line: underline;
+    text-decoration-thickness: 1px; /* Underline thickness */
+    text-underline-offset: 5px; /* Underline position */
 }
 
 .copyable-item:hover {
-    color: var(--color-fg);
+    color: silver;
 }
 
 .popup {
     position: fixed;
-    bottom: 20px;
+    bottom: 50%;
     left: 50%;
     transform: translateX(-50%);
     background-color: #333;
@@ -178,10 +181,7 @@ button {
 
 <div id = "container">
 
-<div id="copy-feedback-popup" class="popup">
-        Skitty used Copycat!
-    </div>
-
+<div id="copy-feedback-popup" class="popup"><center><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px"></span><br>Skitty used Copycat!</center></div>
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -240px -1500px"></span><strong class="searchValue">Beheeyem's Inverse Mass Effect</strong></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
@@ -211,11 +211,11 @@ button {
 </textarea>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Skitty to use Copycat!</b>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click on Underlined Text to Copy</b>
 
-<br><br>Lady Monita's PM Command for Generating a Random Existing Type <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text=".rextype"></span>
+<br><br>Lady Monita's PM Command: <span class="copyable-item" data-copy-text=".rextype">Generate a Random Existing Type</span>
 
-<br><br>PS! Command for Viewing a Typing's Weaknesses and Resistances in Inverse Mode <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="/weak inverse, type, type"></span>
+<br><br>PS! Command: <span class="copyable-item" data-copy-text="/weak inverse, type, type">View a Typing's Weaknesses and Resistances in Inverse Mode</span>
 
 <br><br>Bug Type<span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px" class="copyable-item" data-copy-text="&lt;div style=&quot;display: inline-block ; background: linear-gradient(#c1db70,#96b82e) ; border: 1px solid #68a ; border-radius: 5px ; width: 75px ; padding: 1px ; color: #ffffff ; text-shadow: 1px 1px 1px #333 ; text-align: center&quot;&gt;&lt;b&gt;Bug&lt;/b&gt;&lt;/div&gt;"></span>
 
