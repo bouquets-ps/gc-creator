@@ -174,7 +174,9 @@ button {
 
 <h3>Click on Skitty to use Copycat!</h3><br>
 
-<h3>It is recommended to preview the minigames privately by changing ``!htmlbox`` to ``/htmlbox`` if you are unfamiliar with them.</h3><br>
+<h3>If you are unfamiliar with a minigame, you may preview it privately by changing <code>!htmlbox</code> to <code>/htmlbox</code>.</h3>
+
+<br>
 
 </center>
 
