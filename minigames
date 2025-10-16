@@ -172,7 +172,7 @@ button {
 
 <br><br>
 
-<h3>If you are unfamiliar with a minigame, you may preview it privately by changing <code>!htmlbox</code> to <code>/htmlbox</code>.</h3><br>
+<h3>If you are unfamiliar with a minigame, you may change <code>!htmlbox</code> to <code>/htmlbox</code> and preview it privately on PS!.</h3><br>
 
 </center>
 
@@ -793,7 +793,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace <code>✿</code> with a trainer card's code from the User Museum's raw content (linked below). Any line that starts with <code>&lt;span class="infobox" style="display: inline-block ; width: 250px"></code> and ends with <code>&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/span&gt;</code> is a trainer card's code.</li>
+<li>Replace <code>✿</code> with a trainer card's code from the User Museum's raw content (<a style="text-decoration:none; color: silver" href="https://raw.githubusercontent.com/bouquets-ps/gc-museum/refs/heads/main/trainer-card">link</a>). Any line that starts with <code>&lt;span class="infobox" style="display: inline-block ; width: 250px"></code> and ends with <code>&lt;br&gt;&lt;br&gt;&lt;/center&gt;&lt;/span&gt;</code> is a trainer card's code.</li>
 <li>Delete the username.</li>
 <li>Delete <code>&lt;b>Last updated:&lt;/b> yyyy-mm-dd&lt;br>&lt;br></code>, where <code>yyyy-mm-dd</code> can be any number.</li>
 <li>SITUATIONAL: Delete <code>"</code> in <code>width="80px" height="80px"</code> if it is in the code.</li>
@@ -807,11 +807,6 @@ button {
 ✿
 </center>
 </textarea>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Links</b><br><br>
-
-<a style="text-decoration:none; color: silver" href="https://raw.githubusercontent.com/bouquets-ps/gc-museum/refs/heads/main/trainer-card">User Museum's Raw Content</a>
 
 </div>
 </p></details></div><br><br>
