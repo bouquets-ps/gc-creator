@@ -117,10 +117,10 @@ button {
 <b><span style="display: inline-block ; height: 30px ; width: 40px ; background: transparent url(&quot;https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16&quot;) no-repeat scroll -360px -2580px"></span><strong class="searchValue">How many bits should the winner of a minigame receive?</strong></b> 
 <br><br>Any amount that you find reasonable, though 25 bits is usually a good number for most games.
 <br><br>For the few games where you can lose bits, it's a little more complicated.
-<br><br><table border="2" cellpadding="5">
+<br><br><table border="2" cellpadding="15">
 <tr><td><b>Game</b></td><td><b>Recommendations</b></td></tr>
-<tr><td><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -240px -1380px"></span><strong class="searchValue">Crustle's PM Crumbling Blocks</strong></td><td>+5 bits per block if the final block is not removed<br>−5 bits per block if the final block is removed</td></tr>
-<tr><td><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -120px"></span><strong class="searchValue">Diglett's Whack-a-Mole</strong></td><td>+5 bits per Diglett<br>+10 bits per Dugtrio<br>−25 bits per Excadrill</td></tr>
+<tr><td><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -240px -1380px"></span>Crustle's PM Crumbling Blocks</td><td>+5 bits per block for players who did not removed the final block<br><br>−5 bits per block for the player who removed the final block</td></tr>
+<tr><td><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -80px -120px"></span>Diglett's Whack-a-Mole</td><td>+5 bits per Diglett<br><br>+10 bits per Dugtrio<br><br>−25 bits per Excadrill</td></tr>
 </table>
 </td></tr></table><br><br></span>
 
