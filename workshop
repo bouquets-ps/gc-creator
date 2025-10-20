@@ -74,9 +74,12 @@ button.addEventListener("click", (event) => {
 
 </script>
 <style>
+td {
+  vertical-align: top;
+}
 .copyable-item {
     cursor: pointer;
-    margin: 10px 5px 10px 5px;
+    margin: -5px 5px 15px 5px;
     padding: 5px 10px 5px 10px;
     font-family: "Consolas", "Liberation Mono", "Courier New", monospace;
     border: 1px solid green;
