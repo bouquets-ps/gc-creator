@@ -181,7 +181,7 @@ button {
 
 <br><br>
 
-<h3>Incomplete and flawed minigames are stored here.</h3><br>
+<h3>Minigames that need to be improved before getting released are stored here.</h3><br>
 
 </center>
 
@@ -374,6 +374,30 @@ Where was ✿✿?
 </div>
 </p></details></div><br><br>
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px"></span><strong class="searchValue">Zygarde's Z-A Pokemon Orders</strong><br><br>Guess a Pokemon as letters are revealed one by one in reverse alphabetical order. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-10-20</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Replace ✿ with one revealed letter, ✿✿ with two revealed letters, etc.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px;"></span><b>Mini Zygarde's Z-A Pokemon Orders</b><br>Guess a Pokemon as letters are revealed one by one in reverse alphabetical order. (one guess only)<hr>
+<b>Pokemon</b> | ✿
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
 
 
 </div>
