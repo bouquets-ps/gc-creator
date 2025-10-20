@@ -128,9 +128,6 @@ textarea {
 div {
   overflow: scroll;
 }
-td {
-  vertical-align: middle;
-}
 body {
   font-family: "Quicksand", sans-serif;
   padding: 30px;
@@ -378,7 +375,7 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace ✿ with one revealed letter, ✿✿ with two revealed letters, etc.</li>
+<li>Replace ✿ with one revealed letter, ✿✿ with two revealed letters, ✿✿✿ with three revealed letters, and so on. Use as many as prompts as necessary to create hints for your answer.</li>
 </ol>
 
 </div><br><br>
@@ -390,10 +387,13 @@ Where was ✿✿?
 </textarea>
 
 </div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 10)</b><br><br>
+
+</div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
 <table>
-<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+!htmlbox <b>Pokemon</b> | ✿✿✿✿✿✿✿✿✿✿
 </table>
 
 </div>
