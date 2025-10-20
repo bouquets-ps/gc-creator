@@ -389,11 +389,15 @@ Where was ✿✿?
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 10)</b><br><br>
 
+<table>
+!htmlbox <b>Pokemon</b> | ✿✿✿✿✿✿✿✿✿✿
+</table>
+
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
 <table>
-!htmlbox <b>Pokemon</b> | ✿✿✿✿✿✿✿✿✿✿
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
 </table>
 
 </div>
