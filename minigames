@@ -16,10 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
             try {
                 await navigator.clipboard.writeText(textToCopy);
                 showPopup();
-            } catch (err) {
-                console.error('Failed to copy text: ', err);
-                alert('Failed to copy text. Please try again or copy manually.'); // Fallback alert
-            }
+            } 
         });
     });
 
