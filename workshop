@@ -371,6 +371,36 @@ Where was ✿✿?
 </div>
 </p></details></div><br><br>
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -2040px"></span><strong class="searchValue">Sobble's Multiple-Choice Pokemon Cries <code>(instead of directly using showdown's mp3 link, the host should download, rename, and reupload the file)</code></strong><br><br>Guess which Pokemon has the given cry! (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-10-21</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Replace each <code>✿</code> with a different Pokemon name.</li>
+<li>Replace <code>✿✿</code> with one of the Pokemon names that is used to replace <code>✿</code>.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -2040px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/sobble-s-pokemon-cries-t1326.html">Sobble's Multiple-Choice Pokemon Cries</a></b><br>Guess which Pokemon has the given cry! (one guess only)<hr><center><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 25px 5px 5px 5px ; padding: 10px; width: 270px; background: linear-gradient(#70a6db,#2e73b8); color: #ffffff"><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 25px 5px 5px 25px ; padding: 5px; width: 250px; background: linear-gradient(#6ba4d8,#5993cd); overflow: hidden"><audio controls src="//play.pokemonshowdown.com/audio/cries/✿✿.mp3"></audio>
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>A</b><br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>B</b><br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>C</b><br><psicon pokemon="✿"></div>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; margin: 0px 3px 0px 3px; background: #000000;"><b>D</b><br><psicon pokemon="✿"></div><br><br></div><br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke 4, natdex">Generate 4 Random Pokemon Names</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px"></span><strong class="searchValue">Zygarde's Z-A Pokemon Orders <code>(the prompt section is incomplete)</code></strong><br><br>Guess a Pokemon as letters are revealed one by one in reverse alphabetical order. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-10-20</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
