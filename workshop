@@ -184,22 +184,31 @@ button {
 
 <div id="copy-feedback-popup" class="popup"><center><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px"></span><br>Skitty used Copycat!</center></div>
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px"></span><strong class="searchValue">Absol's PM Dice Disaster <code>(currently developing this)</code></strong><br><br>PM the host an integer between 1 and 100. In addition, you may PM an item to influence the host's dice, which is <code>!roll 100</code> by default.<br><br>The player with the closest number that is less than or equal to the host's dice roll will earn bits. However, you will lose bits if your number is greater than the host's dice roll!<br><br><span style="float: right"><b>Last updated:</b> 2025-10-24</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px"></span><strong class="searchValue">Absol's PM Dice Disaster <code>(currently developing this)</code></strong><br><br>PM the host an integer between 1 and 100. Additionally, you may PM an item for a special effect.<br><br>The host's dice is <code>!roll 100</code> when unmodified. The player with the closest number that is less than or equal to the host's dice roll will earn bits. However, you will lose bits if your number is greater than the host's dice roll!<br><br><span style="float: right"><b>Last updated:</b> 2025-10-24</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
 <li>Replace ✿ with your username.</li>
+<li>Replace each ✿✿ with a different item, which must be copied below.</li>
 </ol>
 
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-/htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px;"></span><b>Mini Absol's PM Dice Disaster</b><br>PM <username>✿</username> an integer between 1 and 100. In addition, you may PM an item to influence the host's dice, which is <code>!roll 100</code> by default.<br><br>The player with the closest number that is less than or equal to the host's dice roll will earn bits. However, you will lose bits if your number is greater than the host's dice roll!<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 300px; background: linear-gradient(#e6e6e6,#d9d9d9); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 270px; background: #000000">
-<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 75px;"><psicon item="loaded dice"><br><br><b>Loaded Dice</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 150px"><u>Effect</u><br><br>+10 to the host's dice roll</div><hr>
-<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 75px;"><psicon item="spell tag"><br><br><b>Spell Tag</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 150px"><u>Effect</u><br><br>−10 to the host's dice roll</div>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px;"></span><b>Mini Absol's PM Dice Disaster</b><br>PM <username>✿</username> an integer between 1 and 100. Additionally, you may PM an item for a special effect.<br><br>The host's dice is <code>!roll 100</code> when unmodified. The player with the closest number that is less than or equal to the host's dice roll will earn bits. However, you will lose bits if your number is greater than the host's dice roll!<hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 330px; background: linear-gradient(#e6e6e6,#d9d9d9); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 300px; background: #000000">
+<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 75px;">✿✿</div><hr>
+<div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 75px;">✿✿</div>
 </div></div></center>
 </textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/pick a, b, c, d">Generate a Random Item</span></td></tr>
+
+<tr><td style="width: 250px">Item</td><td><span class="copyable-item" data-copy-text="&lt;psicon item=&quot;absolite&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Absolite&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 180px&quot;&gt;+20 to the host's dice roll">Absolite</span><span class="copyable-item" data-copy-text="&lt;psicon item=&quot;blackglasses&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Black Glasses&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 180px&quot;&gt;You cannot lose bits">Black Glasses</span><span class="copyable-item" data-copy-text="&lt;psicon item=&quot;colburberry&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Colbur Berry&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 180px&quot;&gt;−20 to the host's dice roll">Colbur Berry</span><span class="copyable-item" data-copy-text="&lt;psicon item=&quot;darkmemory&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Dark Memory&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 180px&quot;&gt;You win double bits&lt;br&gt;&lt;br&gt;Your integer is randomized">Dark Memory</span></td></tr></table>
 
 </div>
 </p></details></div><br><br>
