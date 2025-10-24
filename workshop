@@ -17,7 +17,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 await navigator.clipboard.writeText(textToCopy);
                 showPopup();
             } catch (err) {
-                console.error('Failed to copy text: ', err);                
+                console.error('Failed to copy text: ', err);   
+            }
         });
     });
 
