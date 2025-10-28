@@ -437,6 +437,25 @@ Where was ✿✿?
 </div>
 </p></details></div><br><br>
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -120px"></span><strong class="searchValue">Meowth's Donation Box</strong><br><br>Click on one of the buttons to donate or steal bits. However, if you try to steal while the donation box is empty, you will get caught and charged with a fine instead. (one click only)<br><br>All donations go to Scrappie.<br><br><span style="float: right"><b>Last updated:</b> 2025-10-28</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Replace ✿ with your username.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -120px;"></span><b>Mini Meowth's Donation Box</b><br>Click on one of the buttons to donate or steal bits. However, if you try to steal while the donation box is empty, you will get caught and charged with a fine instead. (one click only)<br><br>All donations go to <username>Scrappie</username>.<hr><center><br>
+<button class="button" name="send" value="/msg ✿, i love scrappie!!! i must donate 5 bits to support their campaign for best bot 2025" style="margin-right: 10px">Donate</button>
+<button class="button" name="send" value="/msg ✿, i really need bits so I have to steal from the donation box :( sorry scrappie">Steal</button><br><br></center>
+</textarea>
+
+</div>
+</p></details></div><br><br>
+
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -40px -60px"></span><strong class="searchValue">Pikachu's Mystery Pokemon (GIFs)</strong><br><br>Identify the Pokemon shown based on fragments of its GIF! (one guess per hint)<br><br><span style="float: right"><b>Last updated:</b> 2025-10-28</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
