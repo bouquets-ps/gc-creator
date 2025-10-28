@@ -439,7 +439,7 @@ Where was ✿✿?
 
 <textarea>
 !htmlbox <center><br><b>Answer</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px; height: 200px; overflow: hidden">
-<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -0px -0px"></span></div><br><br></center>
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll 5px 5px"></span></div><br><br></center>
 </textarea>
 
 </div><br><br>
