@@ -449,8 +449,8 @@ Where was ✿✿?
 
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -120px;"></span><b>Mini Meowth's Donation Box</b><br>Click on one of the buttons to donate or steal bits. However, if you try to steal while the donation box is empty, you will get caught and charged with a hefty fine instead. (one click only)<br><br>All donations go to <username>Scrappie</username>.<hr><center><br>
-<button class="button" name="send" value="/msg ✿, i love scrappie!!! i must donate 5 bits to support their campaign for best bot 2025" style="margin-right: 10px">Donate</button>
-<button class="button" name="send" value="/msg ✿, i really need bits so I have to steal from the donation box :( sorry scrappie">Steal</button><br><br></center>
+<button class="button" name="send" value="/msg ✿, i love scrappie <3 i must donate 5 bits to support their campaign for best bot 2025" style="margin-right: 10px">Donate</button>
+<button class="button" name="send" value="/msg ✿, i really need bits so i have to steal from the donation box :( sorry scrappie">Steal</button><br><br></center>
 </textarea>
 
 </div>
