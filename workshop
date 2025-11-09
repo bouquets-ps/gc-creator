@@ -416,6 +416,36 @@ Where was ✿✿?
 </div>
 </p></details></div><br><br>
 
+
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -540px"></span><strong class="searchValue">Magcargo's Every Weak Spot</strong><br><br>Name every weakness that all of the given Pokemon share! (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-11-09</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Generate a Magcargo's Weak Spot prompt that has two or more possible answers.</li>
+<li>Replace each <code>✿</code> with a different Pokemon from the generated prompt.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -540px;"></span><b>Mini Magcargo's Every Weak Spot</b><br>Name every weakness that all of the given Pokemon share! (one guess only)<br><br>
+<psicon pokemon="✿">
+<psicon pokemon="✿">
+<psicon pokemon="✿">
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">Lady Monita's PM Command</td><td><span class="copyable-item" data-copy-text="✿
+.rhint magcargos">Generate a Magcargo's Weak Spot prompt</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -120px"></span><strong class="searchValue">Meowth's Donation Box</strong><br><br>Click on one of the buttons to donate or steal bits. However, if you try to steal while the donation box is empty, you will get caught and charged with a hefty fine instead. (one click only)<br><br>All donations go to Scrappie.<br><br><span style="float: right"><b>Last updated:</b> 2025-10-28</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
