@@ -254,7 +254,7 @@ Where was ✿✿?
 </p></details></div><br><br>
 
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1500px"></span><strong class="searchValue">Eelektross' Strong Suits</strong><br><br>Name a type that none of the Pokemon shown are weak to! You cannot answer Normal. (one guess only)<br><br>Types that are super effective against many types award more bits.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-11</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1500px"></span><strong class="searchValue">Eelektross' Strong Suits</strong><br><br>Name a type that none of the Pokemon shown are weak to! You cannot answer Normal. (one guess only)<br><br>Types that are super effective against many types award more bits.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-12</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
 
 <textarea>
@@ -265,7 +265,7 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 2)</b><br><br>
 
 <textarea>
-!randpoke 10, natdex
+!randpoke 6, natdex
 </textarea>
 
 </div>
