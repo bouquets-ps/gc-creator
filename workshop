@@ -189,7 +189,7 @@ button {
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace ✿ with your username.</li>
+<li>Replace <code>✿</code> with your username.</li>
 </ol>
 
 </div><br><br>
@@ -308,7 +308,7 @@ Where was ✿✿?
 
 <ol>
 <li>Replace each <code>✿</code> and <code>✿✿</code> with different number between 1 and 10.</li>
-<li>Replace each ✿✿✿🤍 with a number that equals to 120*(✿✿🤍/✿🤍), rounded up. The values used for calculations should have the same coloured hearts.</li>
+<li>Replace each <code>✿✿✿🤍</code> with a number that equals to <code>120*(✿✿🤍/✿🤍)</code>, rounded up. The values used for calculations should have the same coloured hearts.</li>
 </ol>
 
 </div><br><br>
