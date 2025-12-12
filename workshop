@@ -185,7 +185,7 @@ button {
 
 <div id="copy-feedback-popup" class="popup"><center><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px"></span><br>Skitty used Copycat!</center></div>
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px"></span><strong class="searchValue">Absol's PM Dice Disaster</strong><br><br>PM the host an integer between 1 and 100. Additionally, you may PM an item for a special effect.<br><br>The player with the closest number that is less than or equal to the host's dice roll will earn bits. The host's dice is <code>!roll 100</code> when unmodified.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-09</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px"></span><strong class="searchValue">Absol's PM Dice Disaster</strong><br><br>PM the host an integer between 1 and 100. Additionally, you may PM an item for a special effect.<br><br>The player with the closest number that is less than or equal to the host's dice roll will earn bits. The host's dice is <code>!roll 100</code> when unmodified.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-13</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
@@ -303,7 +303,7 @@ Where was ✿✿?
 </div>
 </p></details></div><br><br>
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -3300px"></span><strong class="searchValue">Kangaskhan's 2 × 100M Relay</strong><br><br>Guess which coloured team will reach the finish line first!<br><br><span style="float: right"><b>Last updated:</b> 2025-12-11</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -3300px"></span><strong class="searchValue">Kangaskhan's 2 × 100M Relay</strong><br><br>Guess which coloured team will reach the finish line first!<br><br><span style="float: right"><b>Last updated:</b> 2025-12-13</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
