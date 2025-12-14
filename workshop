@@ -328,10 +328,10 @@ Where was ✿✿?
 <span style="background: linear-gradient(#70db70,#2eb82e)"><marquee loop="1" scrollamount="✿✿💚"><span style="display: inline-block; width: ✿✿✿💚px; height: 1px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/flabebe-blue.gif) no-repeat scroll -999px -999px;"></span><psicon pokemon="rowlet"></marquee></span>
 <span style="background: linear-gradient(#70a6db,#2e73b8)"><marquee loop="1" scrollamount="✿✿💙"><span style="display: inline-block; width: ✿✿✿💙px; height: 1px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/flabebe-blue.gif) no-repeat scroll -999px -999px;"></span><psicon pokemon="piplup"></marquee></span>
 </div><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 48px"><span style="display: inline-block; width: 43px; height: 132px"><table style="height: 100%"><tr><td><center><b><i>Baton<br><br>Pass!</i></b></center></td></tr></table></span></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; width: 120px">
-<span style="background: linear-gradient(#db8b70,#b8502e)"><marquee class="LaneRed2" loop="1" scrollamount="✿❤️"><psicon pokemon="blaziken"></marquee></span> 
-<span style="background: linear-gradient(#dbdb70,#b8b72e)"><marquee class="LaneYellow2" loop="1" scrollamount="✿💛"><psicon pokemon="raichu"></marquee></span>
-<span style="background: linear-gradient(#70db70,#2eb82e)"><marquee class="LaneGreen2" loop="1" scrollamount="✿💚"><psicon pokemon="decidueye"></marquee></span>
-<span style="background: linear-gradient(#70a6db,#2e73b8)"><marquee class="LaneBlue2" loop="1" scrollamount="✿💙"><psicon pokemon="empoleon"></marquee></span>
+<span style="background: linear-gradient(#db8b70,#b8502e)"><marquee loop="1" scrollamount="✿❤️"><psicon pokemon="blaziken"></marquee></span> 
+<span style="background: linear-gradient(#dbdb70,#b8b72e)"><marquee loop="1" scrollamount="✿💛"><psicon pokemon="raichu"></marquee></span>
+<span style="background: linear-gradient(#70db70,#2eb82e)"><marquee loop="1" scrollamount="✿💚"><psicon pokemon="decidueye"></marquee></span>
+<span style="background: linear-gradient(#70a6db,#2e73b8)"><marquee loop="1" scrollamount="✿💙"><psicon pokemon="empoleon"></marquee></span>
 </div></div></center>
 </textarea>
 
