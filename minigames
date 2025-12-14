@@ -371,6 +371,26 @@ button {
 </div>
 </p></details></div><br><br>
 
+
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1500px"></span><strong class="searchValue">Eelektross' Strong Suits</strong><br><br>Name a type that none of the Pokemon shown are weak to! You cannot answer Normal. (one guess only)<br><br>Types that are super effective against many types award more bits.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-14</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -1500px;"></span><b>Mini Eelektross' Strong Suits</b><br>Name a type that none of the Pokemon shown are weak to! You cannot answer Normal. (one guess only)<br><br>Types that are super effective against many types award more bits.
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 2)</b><br><br>
+
+<textarea>
+!randpoke 6, natdex
+.timer 20 sec
+</textarea>
+
+</div>
+</p></details></div><br><br>
+
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -160px -2040px"></span><strong class="searchValue">Greedent's Simplified Berry Piles</strong><br><br>Try to grab more berries than the host without going over 21! Each pile contains 1 to 10 berries. (one click only)<br><br>The host will always grab 3 piles of berries.<br><br><span style="float: right"><b>Last updated:</b> 2025-11-05</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
@@ -550,6 +570,39 @@ button {
 <tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
 
 <tr><td>Miscellaneous</td><td><span class="copyable-item" data-copy-text="&lt;code&gt;_____&lt;/code&gt;">Blanks</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
+
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -1230px"></span><strong class="searchValue">Serperior's Lengthy Chains</strong><br><br>Form the longest chain possible with the randomly generated phrases! A chain is a sequence where a phrase's last letter matches the next phrase's first letter.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-14</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Replace <code>✿</code> with a command that generates 30 random phrases, which must be copied below.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -1230px;"></span><b>Mini Serperior's Lengthy Chains</b><br>Form the longest chain possible with the randomly generated phrases! A chain is a sequence where a phrase's last letter matches the next phrase's first letter.<br><br><details><summary><b>Example Chain</b></summary><p>abraronatuxie (Abr<b>a + A</b>ro<b>n + N</b>at<b>u + U</b>xie)</p></details>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 2)</b><br><br>
+
+<textarea>
+✿
+.timer 30 sec
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="!randpoke 30, natdex">Generate 30 Random Pokemon Names</span><span class="copyable-item" data-copy-text="!randmove 30, natdex">Generate 30 Random Moves</span><span class="copyable-item" data-copy-text="!randability 30, natdex">Generate 30 Random Abilities</span><span class="copyable-item" data-copy-text="!randitem 30, natdex">Generate 30 Random Items</span></td></tr>
 </table>
 
 </div>
