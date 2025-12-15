@@ -286,13 +286,28 @@ Where was ✿✿?
 </div>
 </p></details></div><br><br>
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -3300px"></span><strong class="searchValue">Kangaskhan's 2 × 100M Relay</strong><br><br>Guess which coloured team will reach the finish line first!<br><br><span style="float: right"><b>Last updated:</b> 2025-12-14</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -3300px"></span><strong class="searchValue">Kangaskhan's 2 × 100M Relay</strong><br><br>Guess which coloured team will reach the finish line first!<br><br><span style="float: right"><b>Last updated:</b> 2025-12-15</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
 <li>Replace each <code>✿</code> and <code>✿✿</code> with different numbers between 1 and 10.</li>
 <li>Replace each <code>✿✿✿🤍</code> (including the heart!) with a number that equals to <code>120*(✿✿/✿)</code>, rounded up. The values of <code>✿</code> and <code>✿✿</code> used for calculations should have the same coloured hearts as <code>✿✿✿</code>.</li>
 </ol>
+
+<details><summary><b>Example Values</b></summary>
+<p><table border="2" cellpadding="15">
+<tr><th>✿</th><th>✿✿</th><th>✿✿✿</th></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+<tr><td>✿</td><td>✿✿</td><td>✿✿✿</td></tr>
+</table></p></details>
 
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
