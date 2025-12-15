@@ -73,6 +73,9 @@ button.addEventListener("click", (event) => {
 
 </script>
 <style>
+#kangaskhan {
+  overflow: scroll;
+}
 td {
   vertical-align: top;
 }
@@ -293,7 +296,7 @@ Where was ✿✿?
 <li>Replace each <code>✿</code> and <code>✿✿</code> with different numbers between 1 and 10.</li>
 <li>Replace each <code>✿✿✿🤍</code> (including the heart!) with a number that equals to <code>120*(✿/✿✿)</code>, rounded up. The values of <code>✿</code> and <code>✿✿</code> used for calculations should have the same coloured hearts as <code>✿✿✿</code>.<br><br>
 <details><summary>Value Sheet</summary>
-<p><table border="2" cellpadding="10" style="text-align: center; width: 95%">
+<p><table border="2" cellpadding="10" style="text-align: center; width: 95%" id="kangaskhan">
 <tr><th>✿</th><td colspan="10">1</td><td colspan="10">2</td><td colspan="10">3</td><td colspan="10">4</td><td colspan="10">5</td><td colspan="10">6</td><td colspan="10">7</td><td colspan="10">8</td><td colspan="10">9</td><td colspan="10">10</td></tr>
 <tr><th>✿✿</th><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td></tr>
 <tr><th>✿✿✿</th>
