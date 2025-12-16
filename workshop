@@ -195,22 +195,6 @@ button {
 
 <div id="copy-feedback-popup" class="popup"><center><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -0px -750px"></span><br>Skitty used Copycat!</center></div>
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px"></span><strong class="searchValue">Absol's PM Dice Disaster</strong><br><br>PM the host an integer between 1 and 100. Additionally, you may PM an item for a special effect.<br><br>The player with the closest number that is less than or equal to the host's dice roll will earn bits. The host's dice is <code>!roll 100</code> when unmodified.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-13</span><br></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
-
-<ol>
-<li>Replace <code>✿</code> with your username.</li>
-</ol>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
-
-<textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -870px;"></span><b>Mini Absol's PM Dice Disaster</b><br>PM <username>✿</username> an integer between 1 and 100. Additionally, you may PM an item for a special effect.<br><br>The player with the closest number that is less than or equal to the host's dice roll will earn bits. The host's dice is <code>!roll 100</code> when unmodified.<hr><center><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 330px; background: linear-gradient(#e6e6e6,#d9d9d9); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 10px; width: 300px; background: #000000"><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 80px;"><psicon item="absolite"><br><br><b>Absolite</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 180px">The host rolls an extra dice (can be stacked) and takes the highest value as their integer</div><hr><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 80px;"><psicon item="colburberry"><br><br><b>Colbur Berry</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 180px">Decrease the host's maximum roll by 10 (can be stacked up to 9 times)</div><hr><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 80px;"><psicon item="darkiniumz"><br><br><b>Darkinium Z</b></div><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 10px; width: 180px">Eliminate players whose integers are greater than yours by 1 to 3</div></div></div><br><br></center>
-</textarea>
-
-</div>
-</p></details></div><br><br>
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -150px"></span><strong class="searchValue">Alakazam's Total Recall <code>(can cheat by switching tabs at the right timing)</code></strong><br><br>Try to memorize each Pokemon's coordinates to answer the host's question! The prompt will be displayed after timer ends. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-10-20</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
