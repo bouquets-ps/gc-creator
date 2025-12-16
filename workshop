@@ -270,7 +270,7 @@ Where was ✿✿?
 <ol>
 <li>Replace each ✿ with a Swablu, Altaria, or blank icon, which must be copied below.</li>
 <li>Replace each ✿✿ with a Wooloo, Dubwool, or blank icon, which must be copied below.</li>
-<li>Replace ✿✿✿ with a math problem, which must be copied below.</li>
+<li>Replace ✿✿✿ with a command that generates a math problem, which must be copied below.</li>
 </ol>
 
 </div><br><br>
@@ -278,75 +278,73 @@ Where was ✿✿?
 
 <textarea>
 /htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -810px;"></span><b>Mini <a href="https://www.tapatalk.com/groups/ps_game_corner/altaria-s-cloud-counting-t862.html">Altaria's Cloud Counting</a></b><br>Count how many Pokemon are there and find the answer to the math problem! (one guess only)<br><br><i>Artwork from <a href="https://www.serebii.net/dungeonrescueteamdx/rescueteamcamp.shtml">Pokemon Mystery Dungeon Rescue Team DX</a></i><hr><center><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px 5px 5px 5px ; padding-top: 3px; width: 340px; background: linear-gradient(#70a6db ,#2eb82e)"><div style="display: inline-block ; border: 0px solid #68a ; border-radius: 5px ; padding: 5px; color: #000000; width: 310px; height: 240px; overflow: hidden;  image-rendering: pixelated;background:transparent url(https://www.serebii.net/dungeonrescueteamdx/camp/sky-blueplains.jpg) no-repeat scroll -0px -0px;"><table style="text-align: center"><tr>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
+✿
+✿
+✿
+✿
+✿
+✿
+✿
 </tr><tr>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
+✿
+✿
+✿
+✿
+✿
+✿
+✿
 </tr><tr>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
+✿
+✿
+✿
+✿
+✿
+✿
+✿
 </tr><tr>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
-<td height="30px" width="40px"><psicon pokemon="altaria"></td>
+✿
+✿
+✿
 <td height="30px" width="40px"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
+✿✿
+✿✿
+✿✿
 </tr><tr>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
 </tr><tr>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
 </tr><tr>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-<td height="30px" width="40px"><psicon pokemon="wooloo"></td>
-</tr></table></div></div>
-<br><br>
-<b>Swablu + Wooloo + Dubwool − Altaria = ?</b>
-<br><br></center>
-
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
+✿✿
+</tr></table></div></div><br><br><b>
+✿✿✿
+</b><br><br></center>
 </textarea>
 
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
 <table>
-<tr><td style="width: 250px">Icons</td><td><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;swablu&quot;&gt;&lt;/td&gt;">Swablu</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;altaria&quot;&gt;&lt;/td&gt;">Altaria</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;wooloo&quot;&gt;&lt;/td&gt;">Wooloo</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;dubwool&quot;&gt;&lt;/td&gt;">Dubwool</span></td></tr>
+<tr><td style="width: 250px">Icons</td><td><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;swablu&quot;&gt;&lt;/td&gt;">Swablu</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;altaria&quot;&gt;&lt;/td&gt;">Altaria</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;wooloo&quot;&gt;&lt;/td&gt;">Wooloo</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;dubwool&quot;&gt;&lt;/td&gt;">Dubwool</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;/td&gt;">Blank</span></td></tr>
 
-<tr><td>Math Problem</td><td><span class="copyable-item" data-copy-text="✿">✿</span></td></tr>
+<tr><td>PS! Command</td><td><span class="copyable-item" data-copy-text="/pick Swablu − Altaria + Wooloo − Dubwool = ?, Swablu − Altaria + Dubwool − Wooloo = ?, Swablu − Wooloo + Altaria − Dubwool = ?, Swablu − Wooloo + Dubwool − Altaria = ?, Swablu − Dubwool + Altaria − Wooloo = ?, Swablu − Dubwool + Wooloo − Altaria = ?, Altaria − Swablu + Wooloo − Dubwool = ?, Altaria − Swablu + Dubwool − Wooloo = ?, Altaria − Wooloo + Swablu − Dubwool = ?, Altaria − Wooloo + Dubwool − Swablu = ?, Altaria − Dubwool + Swablu − Wooloo = ?, Altaria − Dubwool + Wooloo − Swablu = ?, Wooloo − Swablu + Altaria − Dubwool = ?, Wooloo − Swablu + Dubwool − Altaria = ?, Wooloo − Altaria + Swablu − Dubwool = ?, Wooloo − Altaria + Dubwool − Swablu = ?, Wooloo − Dubwool + Swablu − Altaria = ?, Wooloo − Dubwool + Altaria − Swablu = ?, Dubwool − Swablu + Altaria − Wooloo = ?, Dubwool − Swablu + Wooloo − Altaria = ?, Dubwool − Altaria + Swablu − Wooloo = ?, Dubwool − Altaria + Wooloo − Swablu = ?, Dubwool − Wooloo + Swablu − Altaria = ?, Dubwool − Wooloo + Altaria − Swablu = ?">Generate a Math Problem</span></td></tr>
 </table>
 
 </div>
