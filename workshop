@@ -268,8 +268,9 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>✿</li>
-<li>✿</li>
+<li>Replace each ✿ with a Swablu, Altaria, or blank icon, which must be copied below.</li>
+<li>Replace each ✿✿ with a Wooloo, Dubwool, or blank icon, which must be copied below.</li>
+<li>Replace ✿✿✿ with a math problem, which must be copied below.</li>
 </ol>
 
 </div><br><br>
@@ -343,9 +344,9 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
 <table>
-<tr><td style="width: 250px">✿</td><td><span class="copyable-item" data-copy-text="✿">✿</span></td></tr>
+<tr><td style="width: 250px">Icons</td><td><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;swablu&quot;&gt;&lt;/td&gt;">Swablu</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;altaria&quot;&gt;&lt;/td&gt;">Altaria</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;wooloo&quot;&gt;&lt;/td&gt;">Wooloo</span><span class="copyable-item" data-copy-text="&lt;td height=&quot;30px&quot; width=&quot;40px&quot;&gt;&lt;psicon pokemon=&quot;dubwool&quot;&gt;&lt;/td&gt;">Dubwool</span></td></tr>
 
-<tr><td>✿</td><td><span class="copyable-item" data-copy-text="✿">✿</span></td></tr>
+<tr><td>Math Problem</td><td><span class="copyable-item" data-copy-text="✿">✿</span></td></tr>
 </table>
 
 </div>
