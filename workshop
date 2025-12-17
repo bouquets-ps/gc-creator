@@ -339,7 +339,7 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace each ✿ with a different Pokemon.</li>
+<li>Replace each ✿ with a different Pokemon name.</li>
 </ol>
 
 </div><br><br>
@@ -348,21 +348,17 @@ Where was ✿✿?
 <textarea>
 /htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -2190px;"></span><b>Mini Duraludon's Measurements</b><br>Guess which coloured group is the lightest or heaviest! (one guess only)<hr>
 <br><center>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#db8b70,#b8502e); color: #ffffff">
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px"">
-<psicon pokemon="rotom"><psicon pokemon="bibarel"><psicon pokemon="lileep">
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#db8b70,#b8502e); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px"">
+<psicon pokemon="✿"><psicon pokemon="✿"><psicon pokemon="✿">
 </div></div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#dbdb70,#b8b72e); color: #ffffff">
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px">
-<psicon pokemon="rotom"><psicon pokemon="bibarel"><psicon pokemon="lileep">
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#dbdb70,#b8b72e); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px">
+<psicon pokemon="✿"><psicon pokemon="✿"><psicon pokemon="✿">
 </div></div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#70db70,#2eb82e); color: #ffffff">
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px"">
-<psicon pokemon="rotom"><psicon pokemon="bibarel"><psicon pokemon="lileep">
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#70db70,#2eb82e); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px"">
+<psicon pokemon="✿"><psicon pokemon="✿"><psicon pokemon="✿">
 </div></div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#70a6db,#2e73b8); color: #ffffff">
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px">
-<psicon pokemon="rotom"><psicon pokemon="bibarel"><psicon pokemon="lileep">
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: linear-gradient(#70a6db,#2e73b8); color: #ffffff"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; width: 120px; height: 30px; background: #000000; margin: 5px">
+<psicon pokemon="✿"><psicon pokemon="✿"><psicon pokemon="✿">
 </div></div><br><br></center>
 </textarea>
 
