@@ -411,6 +411,7 @@ Where was ✿✿?
 <ol>
 <li>Replace ✿ with a Pokemon name.</li>
 <li>Replace ✿✿ with a distortion style, which must be copied below.</li>
+<li>SITUATIONAL: Replace ✿✿✿ and ✿✿✿✿ with the Pokemon GIF's width and height respectively if the Skew style is chosen.</li>
 </ol>
 
 </div><br><br>
@@ -427,7 +428,7 @@ Where was ✿✿?
 <table>
 <tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
 
-<tr><td style="width: 250px">Distortion Style</td><td><span class="copyable-item" data-copy-text="width=&quot;10&quot; height=&quot;300&quot;&gt;&lt;img src=&quot;https://imgur.com/0qMfoDD.png&quot; width=&quot;30&quot; height=&quot;300&quot; style=&quot;margin-left: -30px&quot;&gt;">Tall and Narrow</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;10&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://imgur.com/0qMfoDD.png&quot; width=&quot;300&quot; height=&quot;30&quot; style=&quot;margin-top: -30px&quot;&gt;">Short and Wide</span></td></tr>
+<tr><td style="width: 250px">Distortion Style</td><td><span class="copyable-item" data-copy-text="width=&quot;10&quot; height=&quot;300&quot;&gt;&lt;img src=&quot;https://imgur.com/0qMfoDD.png&quot; width=&quot;30&quot; height=&quot;300&quot; style=&quot;margin-left: -30px&quot;&gt;">Tall and Narrow</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;10&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://imgur.com/0qMfoDD.png&quot; width=&quot;300&quot; height=&quot;30&quot; style=&quot;margin-top: -30px&quot;&gt;">Short and Wide</span><span class="copyable-item" data-copy-text="width=&quot;✿✿✿&quot; height=&quot;✿✿✿✿&quot; style=&quot;transform: skew(75deg, 0deg)&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://imgur.com/0qMfoDD.png&quot; width=&quot;1000&quot; height=&quot;300&quot; style=&quot;transform: skew(0deg, 0deg); margin-top: -300px&quot;&gt;">Skew to the Left</span></td></tr>
 </table>
 
 </div>
