@@ -574,27 +574,61 @@ Where was ✿✿?
 
 
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px"></span><strong class="searchValue">Zygarde's Z-A Pokemon Orders <code>(the prompt section is incomplete)</code></strong><br><br>Guess a Pokemon as letters are revealed one by one in reverse alphabetical order. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-10-20</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px"></span><strong class="searchValue">Zygarde's Z-A Orders <code>(wip)</code></strong><br><br>Guess the answer as letters are revealed one by one in reverse alphabetical order. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-12-18</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace ✿ with one revealed letter, ✿✿ with two revealed letters, ✿✿✿ with three revealed letters, and so on. Use as many as prompts as necessary to create hints for your answer.</li>
+<li>Replace ● with a category (e.g. Pokemon) that is related to your answer.</li>
+<li>Replace ✿ with one revealed letter, ✿✿ with two revealed letters, ✿✿✿ with three revealed letters, and so on.</li>
 </ol>
 
 </div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px;"></span><b>Mini Zygarde's Z-A Pokemon Orders</b><br>Guess a Pokemon as letters are revealed one by one in reverse alphabetical order. (one guess only)<hr>
-<b>Pokemon</b> | ✿
+/htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px;"></span><b>Mini Zygarde's Z-A Orders</b><br>Guess the answer as letters are revealed one by one in reverse alphabetical order. (one guess only)<hr><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 3px; margin-left: 15px; background: linear-gradient(#70db70,#2eb82e); color: white; width: 220px"><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: #000000; width: 200px; margin: 3px"><b><center>●</center></b></div><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px; background: #000000; width: 200px; margin: 3px"><marquee loop="1" width="200" height="30" scrollamount="1" scrolldelay="100" direction="up"><center>
+✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center><br>&nbsp;<br>&nbsp;<br><center>
+✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
+</center></marquee></div></div><br><br>
 </textarea>
 
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 10)</b><br><br>
-
-<textarea>
-!htmlbox <b>Pokemon</b> | ✿✿✿✿✿✿✿✿✿✿
-</textarea>
 
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
