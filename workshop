@@ -409,8 +409,8 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace ✿ with a template, which must be copied below.</li>
-<li>Replace ✿✿ with a Pokemon name.</li>
+<li>Replace ✿ with a Pokemon name.</li>
+<li>Replace ✿✿ with a distortion style, which must be copied below.</li>
 </ol>
 
 </div><br><br>
@@ -418,10 +418,7 @@ Where was ✿✿?
 
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px;"></span><b>Mini Giratina's Distortions</b><br>Identify the Pokemon shown based on its distorted GIF!<hr><center><br>
-<img src="https://play.pokemonshowdown.com/sprites/ani/✿✿.gif" width="10" height="300"><img src="https://imgur.com/0qMfoDD.png" width="30" height="300" style="margin-left: -30px"><br><br></center>
-
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px;"></span><b>Mini Giratina's Distortions</b><br>Identify the Pokemon shown based on its distorted GIF!<hr><center><br>
-<img src="https://play.pokemonshowdown.com/sprites/ani/✿✿.gif" width="300" height="10"><br><img src="https://imgur.com/0qMfoDD.png" width="300" height="30" style="margin-top: -30px"><br><br></center>
+<img src="https://play.pokemonshowdown.com/sprites/ani/✿.gif" ✿✿<br><br></center>
 </textarea>
 
 </div><br><br>
@@ -429,6 +426,8 @@ Where was ✿✿?
 
 <table>
 <tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+
+<tr><td style="width: 250px">Distortion Style</td><td><span class="copyable-item" data-copy-text="width=&quot;10&quot; height=&quot;300&quot;&gt;&lt;img src=&quot;https://imgur.com/0qMfoDD.png&quot; width=&quot;30&quot; height=&quot;300&quot; style=&quot;margin-left: -30px&quot;&gt;">Tall</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;10&quot;&gt;&lt;br&gt;&lt;img src=&quot;https://imgur.com/0qMfoDD.png&quot; width=&quot;300&quot; height=&quot;30&quot; style=&quot;margin-top: -30px&quot;&gt;">Flat</span></td></tr>
 </table>
 
 </div>
