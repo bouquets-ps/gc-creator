@@ -409,8 +409,8 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace ✿ with a Pokemon name.</li>
-<li>Replace each ✿✿ and ✿✿✿ with the numbers 10 and 300, or 300 and 10 respectively.</li>
+<li>Replace ✿ with a template, which must be copied below.</li>
+<li>Replace ✿✿ with a Pokemon name.</li>
 </ol>
 
 </div><br><br>
@@ -418,9 +418,10 @@ Where was ✿✿?
 
 <textarea>
 !htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px;"></span><b>Mini Giratina's Distortions</b><br>Identify the Pokemon shown based on its distorted GIF!<hr><center><br>
-<img src="https://play.pokemonshowdown.com/sprites/ani/✿.gif" width="✿✿" height="✿✿✿">
-<img src="https://imgur.com/0qMfoDD.png" width="✿✿" height="✿✿✿" style="margin-top: -✿✿✿px">
-<br><br></center>
+<img src="https://play.pokemonshowdown.com/sprites/ani/✿✿.gif" width="10" height="300"><img src="https://imgur.com/0qMfoDD.png" width="30" height="300" style="margin-left: -30px"><br><br></center>
+
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px;"></span><b>Mini Giratina's Distortions</b><br>Identify the Pokemon shown based on its distorted GIF!<hr><center><br>
+<img src="https://play.pokemonshowdown.com/sprites/ani/✿✿.gif" width="300" height="10"><br><img src="https://imgur.com/0qMfoDD.png" width="300" height="30" style="margin-top: -30px"><br><br></center>
 </textarea>
 
 </div><br><br>
