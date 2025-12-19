@@ -405,7 +405,7 @@ Where was ✿✿?
 </p></details></div><br><br>
 
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px"></span><strong class="searchValue">Giratina's Distortions</strong><br><br>Identify the Pokemon shown based on its distorted GIF!<br><br><span style="float: right"><b>Last updated:</b> 2025-12-18</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px"></span><strong class="searchValue">Giratina's Distortions</strong><br><br>Identify the Pokemon shown based on its distorted GIF!<br><br>Adjust your layout to single panel and turn on landscape mode if you are unable to view the full image.<br><br><span style="float: right"><b>Last updated:</b> 2025-12-19</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
@@ -418,7 +418,7 @@ Where was ✿✿?
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px;"></span><b>Mini Giratina's Distortions</b><br>Identify the Pokemon shown based on its distorted GIF!<hr><center><br>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -2700px;"></span><b>Mini Giratina's Distortions</b><br>Identify the Pokemon shown based on its distorted GIF!<br><br>Adjust your layout to single panel and turn on landscape mode if you are unable to view the full image.<hr><center><br>
 <img src="https://play.pokemonshowdown.com/sprites/ani/✿.gif" ✿✿<br><br></center>
 </textarea>
 
