@@ -833,6 +833,47 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -1950px"></span><strong class="searchValue">Tapu's RKS Terrains</strong><br><br>Jump on Arceus or Silvally based on the given terrain. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-12-30</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Replace ✿ with a terrain, which must be copied below.</li>
+<li>Replace ✿✿ with a Arceus or Silvally form name.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
+
+<textarea>
+/htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -1950px;"></span><b>Mini Tapu's RKS Terrains</b><br>Jump on Arceus or Silvally based on the given terrain. (one guess only)
+<hr><center><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px">
+The terrain is ✿ type Pokemon)!
+</div><br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 2)</b><br><br>
+
+<textarea>
+!htmlbox <psicon pokemon="✿✿">
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="!pick Basic, Cavernous, Cloudy, Electrified, Grassy, Infested, Metallic, Misty, Molten, Rocky, Sandy, Shady, Snowy, Spooky, Swampy, Twisted, Venomous, Violent ">Decide a Terrain</span></td></tr>
+
+<tr><td>Terrain</td><td><span class="copyable-item" data-copy-text="&lt;b&gt;Basic&lt;/b&gt; (jump on &lt;b&gt;Normal&lt;/b&gt;">Basic</span><span class="copyable-item" data-copy-text="&lt;b&gt;Cavernous&lt;/b&gt; (jump on &lt;b&gt;Dragon&lt;/b&gt;">Cavernous</span><span class="copyable-item" data-copy-text="&lt;b&gt;Cloudy&lt;/b&gt; (jump on &lt;b&gt;Flying&lt;/b&gt;">Cloudy</span><span class="copyable-item" data-copy-text="&lt;b&gt;Electrified&lt;/b&gt; (jump on &lt;b&gt;Electric&lt;/b&gt;">Electrified</span><span class="copyable-item" data-copy-text="&lt;b&gt;Grassy&lt;/b&gt; (jump on &lt;b&gt;Grass&lt;/b&gt;">Grassy</span><span class="copyable-item" data-copy-text="&lt;b&gt;Infested&lt;/b&gt; (jump on &lt;b&gt;Bug&lt;/b&gt;">Infested</span><span class="copyable-item" data-copy-text="&lt;b&gt;Metallic&lt;/b&gt; (jump on &lt;b&gt;Steel&lt;/b&gt;">Metallic</span>
+<span class="copyable-item" data-copy-text="&lt;b&gt;Misty&lt;/b&gt; (jump on &lt;b&gt;Fairy&lt;/b&gt;">Misty</span><span class="copyable-item" data-copy-text="&lt;b&gt;Molten&lt;/b&gt; (jump on &lt;b&gt;Fire&lt;/b&gt;">Molten</span><span class="copyable-item" data-copy-text="&lt;b&gt;Rocky&lt;/b&gt; (jump on &lt;b&gt;Rock&lt;/b&gt;">Rocky</span><span class="copyable-item" data-copy-text="&lt;b&gt;Sandy&lt;/b&gt; (jump on &lt;b&gt;Ground&lt;/b&gt;">Sandy</span><span class="copyable-item" data-copy-text="&lt;b&gt;Shady&lt;/b&gt; (jump on &lt;b&gt;Dark&lt;/b&gt;">Shady</span><span class="copyable-item" data-copy-text="&lt;b&gt;Snowy&lt;/b&gt; (jump on &lt;b&gt;Ice&lt;/b&gt;">Snowy</span><span class="copyable-item" data-copy-text="&lt;b&gt;Spooky&lt;/b&gt; (jump on &lt;b&gt;Ghost&lt;/b&gt;">Spooky</span><span class="copyable-item" data-copy-text="&lt;b&gt;Swampy&lt;/b&gt; (jump on &lt;b&gt;Water&lt;/b&gt;">Swampy</span><span class="copyable-item" data-copy-text="&lt;b&gt;Twisted&lt;/b&gt; (jump on &lt;b&gt;Psychic&lt;/b&gt;">Twisted</span><span class="copyable-item" data-copy-text="&lt;b&gt;Venomous&lt;/b&gt; (jump on &lt;b&gt;Poison&lt;/b&gt;">Venomous</span><span class="copyable-item" data-copy-text="&lt;b&gt;Violent&lt;/b&gt; (jump on &lt;b&gt;Fighting&lt;/b&gt;">Violent</span>
+</td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -400px -1770px"></span><strong class="searchValue">Zygarde's Z-A Orders <code>(wip)</code></strong><br><br>Guess the answer as letters are revealed one by one in reverse alphabetical order. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-12-18</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
