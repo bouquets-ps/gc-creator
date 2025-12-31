@@ -887,8 +887,7 @@ The terrain is ✿ type Pokemon)!
 
 <textarea>
 /htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -480px;"></span><b>Mini Unown's Pokemon Chain (GIFs)</b><br>Guess a Pokemon whose first letter matches the last letter of the given Pokemon.<br><br>Your answer must be formed using the Unown shown. Each Unown shown can only be used once, and you do not have to use every single one of them.<hr><center><br>The host spelled out <b>
-✿
-</b>.<br><br>
+✿</b>.<br><br>
 ✿✿
 </center><br>
 </textarea>
