@@ -543,6 +543,109 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 </p></details></div><br><br>
 
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://imgur.com/eucYH2Q.png) no-repeat scroll -0px -3090px"></span><strong class="searchValue">Calyrex's Last Stand</strong><br><br>Help Calyrex (white knight) survive on the chessboard! Find the square that Calyrex can move to and not get captured immediately.<br><br><span style="float: right"><b>Last updated:</b> 2026-01-07</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br><br>
+
+<ol>
+<li>✿</li>
+<li>✿</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+/htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://imgur.com/eucYH2Q.png) no-repeat scroll -0px -3090px;"></span><b>Calyrex's Last Stand</b><br>Help Calyrex (white knight) survive on the chessboard! Find the square that Calyrex can move to and not get captured immediately.<br><br>
+<details><summary><b>Pieces</b></summary><p><table border="2" cellpadding="5">
+<tr><th>Pokemon</th><th>Role</th></tr>
+<tr><th><psicon pokemon="calyrexice"></th><td>White Knight</td>
+<tr><th><psicon pokemon="pawniard"></th><td>Black Pawn</td>
+<tr><th><psicon pokemon="bisharp"></th><td>Black Bishop</td>
+<tr><th><psicon pokemon="rookidee"></th><td>Black Rook</td>
+<tr><th><psicon pokemon="corviknight"></th><td>Black Knight</td>
+<tr><th><psicon pokemon="nidoqueen"></th><td>Black Queen</td>
+<tr><th><psicon pokemon="nidoking"></th><td>Black King</td>
+</table></p></details><hr>
+<center><div style="display: inline-block; border: 0px; background: #888888; border-radius: 5px; padding: 10px; width: 360px; height: 360px">
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>a8</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>b8</b><br><psicon pokemon="nidoking"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>c8</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>d8</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>e8</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>f8</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>g8</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>h8</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>a7</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>b7</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>c7</b><br><psicon pokemon="bisharp"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>d7</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>e7</b><br><psicon pokemon="rookidee"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>f7</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>g7</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>h7</b><br><psicon pokemon="corviknight"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>a6</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>b6</b><br><psicon pokemon="pawniard"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>c6</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>d6</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>e6</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>f6</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>g6</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>h6</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>a5</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>b5</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>c5</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>d5</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>e5</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>f5</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>g5</b><br><psicon pokemon="pawniard"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>h5</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>a4</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>b4</b><br><psicon pokemon="pawniard"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>c4</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>d4</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>e4</b><br><psicon pokemon="calyrexice"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>f4</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>g4</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>h4</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>a3</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>b3</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>c3</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>d3</b><br><psicon pokemon="corviknight"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>e3</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>f3</b><br><psicon pokemon="nidoqueen"></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>g3</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>h3</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>a2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>b2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>c2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>d2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>e2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>f2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>g2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>h2</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>a1</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>b1</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>c1</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>d1</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>e1</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>f1</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>g1</b><br></div>
+<div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>h1</b><br></div>
+</div></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">Pieces</td><td><span class="copyable-item" data-copy-text="✿">✿</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
+
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -540px"></span><strong class="searchValue">Delibird's Presents</strong><br><br>Click to open as many Christmas presents as you wish! Bits is awarded for every unique item you get. However, you will only earn those bits if you avoid receiving Charcoal!<br><br><span style="float: right"><b>Last updated:</b> 2025-12-25</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
