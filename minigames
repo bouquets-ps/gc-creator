@@ -648,6 +648,44 @@ button {
 </p></details></div><br><br>
 
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -280px -1260px"></span><strong class="searchValue">Pansage's Recipe</strong><br><br>Select berries in the given order by clicking buttons.<br><br><span style="float: right"><b>Last updated:</b> 2026-01-16</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Replace each <code>✿</code> with your username.</li>
+<li>Replace each <code>✿✿</code> with a different berry name, which must be generated using a copyable command below.</li>
+<li>Replace <code>✿✿✿</code> with the four berry names used for <code>✿✿</code> in a shuffled order.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -280px -1260px;"></span><b>Mini Pansage's Recipe</b><br>Select berries in the given order by clicking buttons.<hr><center>
+<div style="width: 150px">
+<ol><li>✿✿ Berry
+</li><li>✿✿ Berry
+</li><li>✿✿ Berry
+</li><li>✿✿ Berry
+</li></ol></div>
+<button class="button" name="send" value="/msg ✿, .select berry A" style="padding: 10px; margin: 10px"><b>A</b><br><psicon item="✿✿✿ Berry"></button>
+<button class="button" name="send" value="/msg ✿, .select berry B" style="padding: 10px; margin: 10px"><b>B</b><br><psicon item="✿✿✿ Berry"></button>
+<button class="button" name="send" value="/msg ✿, .select berry C" style="padding: 10px; margin: 10px"><b>C</b><br><psicon item="✿✿✿ Berry"></button>
+<button class="button" name="send" value="/msg ✿, .select berry D" style="padding: 10px; margin: 10px"><b>D</b><br><psicon item="✿✿✿ Berry"></button>
+</center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/pick Aguav, Apicot, Aspear, Babiri, Belue, Bluk, Charti, Cheri, Chesto, Chilan, Chople, Coba, Colbur, Cornn, Custap, Durin, Enigma, Figy, Ganlon, Grepa, Haban, Hondew, Iapapa, Jaboca, Kasib, Kebia, Kee, Kelpsy, Lansat, Leppa, Liechi, Lum, Mago, Magost, Maranga, Micle, Nanab, Nomel, Occa, Oran, Pamtre, Passho, Payapa, Pecha, Persim, Petaya, Pinap, Pomeg, Qualot, Rabuta, Rawst, Razz, Rindo, Roseli, Rowap, Salac, Shuca, Sitrus, Spelon, Starf, Tamato, Tanga, Wacan, Watmel, Wepear, Wiki, Yache">Generate a Random Berry Name</span><span class="copyable-item" data-copy-text="/shuffle name 1, name 2, name 3, name 4">Shuffle Berry Name Order</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -440px -1170px"></span><strong class="searchValue">Rotom's Multiple-Choice Dex Trivia</strong><br><br>Fill in the blanks of the given dex entry! (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-10-21</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
