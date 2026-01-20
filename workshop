@@ -782,7 +782,7 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <ol>
 <li>Replace ✿ with a Pokemon name.</li>
 <li>Replace ✿✿ with a distortion style, which must be copied below.</li>
-<li>SITUATIONAL: Replace ✿✿✿ and ✿✿✿✿ with the Pokemon GIF's width and height respectively if Skew style is used. Link to the Pokemon GIF can be found in the prompt where ✿ was replaced.</li>
+<li>SITUATIONAL: Replace ✿✿✿ and ✿✿✿✿ with the Pokemon GIF's width and height respectively if Skew style is used. Width and height can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced.</li>
 </ol>
 
 </div><br><br>
