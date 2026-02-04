@@ -555,16 +555,16 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 <textarea>
 /htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://imgur.com/eucYH2Q.png) no-repeat scroll -0px -3090px;"></span><b>Calyrex's Last Stand</b><br>Help Calyrex (white knight) survive on the chessboard! Find the square that Calyrex can move to and not get captured immediately.<br><br>
-<details><summary><b>Pieces</b></summary><p><table border="2" cellpadding="5">
-<tr><th>Pokemon</th><th>Role</th></tr>
-<tr><th><psicon pokemon="calyrexice"></th><td>White Knight</td>
-<tr><th><psicon pokemon="pawniard"></th><td>Black Pawn</td>
-<tr><th><psicon pokemon="bisharp"></th><td>Black Bishop</td>
-<tr><th><psicon pokemon="rookidee"></th><td>Black Rook</td>
-<tr><th><psicon pokemon="corviknight"></th><td>Black Knight</td>
-<tr><th><psicon pokemon="nidoqueen"></th><td>Black Queen</td>
-<tr><th><psicon pokemon="nidoking"></th><td>Black King</td>
-</table></p></details><hr>
+<details><summary><b>Pieces</b></summary><p>
+<table border="2" cellpadding="5" style="text-align: center">
+<tr><th colspan="4">White</th></tr>
+<tr><th colspan="2"><psicon pokemon="calyrexice"></th><td colspan="2">Knight</td></tr>
+<tr><th colspan="4">Black</th></tr>
+<tr><th style="width: 50px"><psicon pokemon="pawniard"></th><td style="width: 50px">Pawn</td><th style="width: 50px"><psicon pokemon="bisharp"></th><td style="width: 50px">Bishop</td></tr>
+<tr><th><psicon pokemon="rookidee"></th><td>Rook</td><th><psicon pokemon="corviknight"></th><td>Knight</td></tr>
+<tr><th><psicon pokemon="nidoqueen"></th><td>Queen</td><th><psicon pokemon="nidoking"></th><td>King</td></tr>
+</table>
+</p></details><hr>
 <center><div style="display: inline-block; border: 0px; background: #888888; border-radius: 5px; padding: 10px; width: 360px; height: 360px">
 <div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>a8</b><br></div>
 <div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>b8</b><br><psicon pokemon="nidoking"></div>
