@@ -564,7 +564,22 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <tr><th><psicon pokemon="rookidee"></th><td>Rook</td><th><psicon pokemon="corviknight"></th><td>Knight</td></tr>
 <tr><th><psicon pokemon="nidoqueen"></th><td>Queen</td><th><psicon pokemon="nidoking"></th><td>King</td></tr>
 </table>
-</p></details><hr>
+</p></details>
+<br>
+<details><summary><b>How White Knight Moves</b></summary><p>
+<table border="2" cellpadding="5" style="text-align: center">
+<tr><th style="width: 50px"><psicon pokemon="calyrexice"></th><td style="width: 200px">Moves in an L-shape: two squares in a straight direction, and then one square perpendicular to that</td></tr>
+</table>
+</p></details>
+<br>
+<details><summary><b>How Black Pieces Capture</b></summary><p>
+<table border="2" cellpadding="5" style="text-align: center">
+<tr><th style="width: 50px"><psicon pokemon="pawniard"></th><td style="width: 200px">Moves one square downward diagonally</td><th style="width: 50px"><psicon pokemon="bisharp"></th><td style="width: 200px">Moves any number of squares diagonally</td></tr>
+<tr><th><psicon pokemon="rookidee"></th><td>Moves any number of squares horizontally or vertically</td><th><psicon pokemon="corviknight"></th><td>Moves in an L-shape: two squares in a straight direction, and then one square perpendicular to that</td></tr>
+<tr><th><psicon pokemon="nidoqueen"></th><td>Moves any number of squares diagonally, horizontally, or vertically</td><th><psicon pokemon="nidoking"></th><td>Moves one square diagonally, horizontally, or vertically</td></tr>
+</table>
+</p></details>
+<hr>
 <center><div style="display: inline-block; border: 0px; background: #888888; border-radius: 5px; padding: 10px; width: 360px; height: 360px">
 <div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #ffffff; color: #000000"><b>a8</b><br></div>
 <div style="margin: 0px -2px 0px -2px; vertical-align: top; display: inline-block; width: 45px; height: 45px; background: #000000; color: #ffffff"><b>b8</b><br><psicon pokemon="nidoking"></div>
