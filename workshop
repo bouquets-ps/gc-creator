@@ -664,9 +664,8 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 <ol>
 <li>Replace ✿ with a Pokemon name.</li>
-<li>Replace ✿✿ with a positive integer that is less than the Pokemon GIF's width by 20 or more. Width can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced.</li>
-<li>Replace ✿✿✿ with a positive integer that is less than the Pokemon GIF's height by 20 or more. Height can also be found by downloading the Pokemon GIF.</li>
-<li>View your prompt privately with <code>/htmlbox</code>. If the Pokemon is not visible, redo step 2 and step 3 with different numbers.</li>
+<li>Replace ✿✿ and ✿✿✿ with a positive integer that is less than the Pokemon GIF's width and height (respectively) by 20 or more. Width and height can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced.</li>
+<li>View your prompt privately with <code>/htmlbox</code>. If the Pokemon is not visible, redo step 2 with different numbers.</li>
 </ol>
 
 </div><br><br>
