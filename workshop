@@ -659,6 +659,57 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 </p></details></div><br><br>
 
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1110px"></span><strong class="searchValue">Croagunk's Binoculars</strong><br><br>Identify the Pokemon shown based on fragments of its GIF! (one guess per hint)<br><br><span style="float: right"><b>Last updated:</b> 2026-02-07</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Replace ✿ with a Pokemon name.</li>
+<li>Replace each ✿✿ with a different number between 0 and 200 to move Pokemon horizontally.</li>
+<li>Replace each ✿✿✿ with a different number between 0 and 200 to move Pokemon vertically.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1110px;"></span><b>Mini Croagunk's Binoculars</b><br>Identify the Pokemon shown based on fragments of its GIF! (one guess per hint)<hr><center><br><b>Hint 1</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 20px ; padding: 0px ; width: 20px; height: 20px; overflow: hidden">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿px -✿✿✿px"></span></div><br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 2)</b><br><br>
+
+<textarea>
+!htmlbox <center><br><b>Hint 2</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 30px ; padding: 0px ; width: 30px; height: 30px; overflow: hidden">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿px -✿✿✿px"></span></div><br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 3)</b><br><br>
+
+<textarea>
+!htmlbox <center><br><b>Hint 3</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 40px ; padding: 0px ; width: 40px; height: 40px; overflow: hidden">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿px -✿✿✿px"></span></div><br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Answer</b><br><br>
+
+<textarea>
+!htmlbox <center><br><b>Answer</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px; height: 200px; overflow: hidden">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll 5px 5px"></span></div><br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -540px"></span><strong class="searchValue">Delibird's Presents</strong><br><br>Click to open as many Christmas presents as you wish! Bits is awarded for every unique item you get. However, you will only earn those bits if you avoid receiving Charcoal!<br><br><span style="float: right"><b>Last updated:</b> 2025-12-25</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
@@ -905,59 +956,6 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 </div>
 </p></details></div><br><br>
-
-
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -40px -60px"></span><strong class="searchValue">Pikachu's Mystery Pokemon (GIFs) <code>(requires the host to experiment with GIF width and height too much)</code></strong><br><br>Identify the Pokemon shown based on fragments of its GIF! (one guess per hint)<br><br><span style="float: right"><b>Last updated:</b> 2025-11-05</span><br></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
-
-<ol>
-<li>Replace ✿ with a Pokemon name.</li>
-<li>Replace each ✿✿ with a different number between 0 and 200 to move Pokemon horizontally.</li>
-<li>Replace each ✿✿✿ with a different number between 0 and 200 to move Pokemon vertically.</li>
-</ol>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 1)</b><br><br>
-
-<textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -40px -60px;"></span><b>Mini Pikachu's Mystery Pokemon (GIFs)</b><br>Identify the Pokemon shown based on fragments of its GIF! (one guess per hint)<hr><center><br><b>Hint 1</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 20px ; padding: 0px ; width: 20px; height: 20px; overflow: hidden">
-<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿px -✿✿✿px"></span></div><br><br></center>
-</textarea>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 2)</b><br><br>
-
-<textarea>
-!htmlbox <center><br><b>Hint 2</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 30px ; padding: 0px ; width: 30px; height: 30px; overflow: hidden">
-<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿px -✿✿✿px"></span></div><br><br></center>
-</textarea>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt (Part 3)</b><br><br>
-
-<textarea>
-!htmlbox <center><br><b>Hint 3</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 40px ; padding: 0px ; width: 40px; height: 40px; overflow: hidden">
-<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿px -✿✿✿px"></span></div><br><br></center>
-</textarea>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Answer</b><br><br>
-
-<textarea>
-!htmlbox <center><br><b>Answer</b><br><br><div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 5px ; width: 200px; height: 200px; overflow: hidden">
-<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll 5px 5px"></span></div><br><br></center>
-</textarea>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
-
-<table>
-<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
-</table>
-
-</div>
-</p></details></div><br><br>
-
 
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -1950px"></span><strong class="searchValue">Tapu's RKS Terrains</strong><br><br>Jump on Arceus or Silvally based on the given terrain. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-12-30</span><br></summary><p>
