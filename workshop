@@ -663,9 +663,9 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Replace ✿ with a diameter style, which must be copied below.</li>
-<li>Replace ✿✿ with a Pokemon name.</li>
-<li>Replace ✿✿✿ with a number between 0 and the Pokemon GIF's width. Width can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿✿ was replaced.</li>
+<li>Replace ✿ with a Pokemon name.</li>
+<li>Replace ✿✿ with a diameter style, which must be copied below.</li>
+<li>Replace ✿✿✿ with a number between 0 and the Pokemon GIF's width. Width can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced.</li>
 <li>Replace ✿✿✿✿ with a number between 0 and the Pokemon GIF's height. Height can also be found by downloading the Pokemon GIF.</li>
 <li>View your prompt privately with <code>/htmlbox</code>. If your Pokemon is not visible, return to step 3.</li>
 </ol>
@@ -674,16 +674,16 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1110px;"></span><b>Mini Croagunk's Binoculars</b><br>Identify the Pokemon shown based on fragments of its GIF!<hr><center><br><div style="display: inline-block; border: 1px solid #68a; padding: 0px; ✿ overflow: hidden">
-<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿✿.gif) no-repeat scroll -✿✿✿px -✿✿✿✿px"></span></div><br><br></center>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -360px -1110px;"></span><b>Mini Croagunk's Binoculars</b><br>Identify the Pokemon shown based on fragments of its GIF!<hr><center><br><div style="display: inline-block; border: 1px solid #68a; padding: 0px; ✿✿ overflow: hidden">
+<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿✿px -✿✿✿✿px"></span></div><br><br></center>
 </textarea>
 
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
 
 <table>
-<tr><td style="width: 250px">Diameter Style</td><td><span class="copyable-item" data-copy-text="border-radius: 20px; width: 20px; height: 20px;">Small</span><span class="copyable-item" data-copy-text="border-radius: 30px; width: 30px; height: 30px;">Medium</span><span class="copyable-item" data-copy-text="border-radius: 40px; width: 40px; height: 40px;">Large</span</td></tr>
 <tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+<tr><td style="width: 250px">Diameter Style</td><td><span class="copyable-item" data-copy-text="border-radius: 20px; width: 20px; height: 20px;">Small</span><span class="copyable-item" data-copy-text="border-radius: 30px; width: 30px; height: 30px;">Medium</span><span class="copyable-item" data-copy-text="border-radius: 40px; width: 40px; height: 40px;">Large</span</td></tr>
 </table>
 
 </div>
