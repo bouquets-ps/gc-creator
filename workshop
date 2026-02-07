@@ -665,7 +665,8 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <ol>
 <li>Replace ✿ with a diameter style, which must be copied below.</li>
 <li>Replace ✿✿ with a Pokemon name.</li>
-<li>Replace ✿✿✿ and ✿✿✿✿ with different numbers between 0 and the Pokemon's width/height to move Pokemon horizontally/vertically. Width and height can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿✿ was replaced.</li>
+<li>Replace ✿✿✿ with a number between 0 and the Pokemon GIF's width. Width can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿✿ was replaced.</li>
+<li>Replace ✿✿✿✿ with a number between 0 and the Pokemon GIF's height. Height can also be found by downloading the Pokemon GIF.</li>
 </ol>
 
 </div><br><br>
