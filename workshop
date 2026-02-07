@@ -667,7 +667,7 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <li>Replace ✿✿ with a diameter style, which must be copied below.</li>
 <li>Replace ✿✿✿ with a number between 0 and the Pokemon GIF's width. Width can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced.</li>
 <li>Replace ✿✿✿✿ with a number between 0 and the Pokemon GIF's height. Height can also be found by downloading the Pokemon GIF.</li>
-<li>View your prompt privately with <code>/htmlbox</code>. If your Pokemon is not visible, return to step 3.</li>
+<li>View your prompt privately with <code>/htmlbox</code>. If your Pokemon is not visible, try to use different numbers.</li>
 </ol>
 
 </div><br><br>
@@ -683,7 +683,7 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 <table>
 <tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
-<tr><td style="width: 250px">Diameter Style</td><td><span class="copyable-item" data-copy-text="border-radius: 20px; width: 20px; height: 20px;">Small</span><span class="copyable-item" data-copy-text="border-radius: 30px; width: 30px; height: 30px;">Medium</span><span class="copyable-item" data-copy-text="border-radius: 40px; width: 40px; height: 40px;">Large</span</td></tr>
+<tr><td style="width: 250px">Diameter Style</td><td><span class="copyable-item" data-copy-text="border-radius: 20px; width: 20px; height: 20px;">Small (High Playing Difficulty)</span><span class="copyable-item" data-copy-text="border-radius: 30px; width: 30px; height: 30px;">Medium</span><span class="copyable-item" data-copy-text="border-radius: 40px; width: 40px; height: 40px;">Large (Low Playing Difficulty)</span</td></tr>
 </table>
 
 </div>
