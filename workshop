@@ -669,8 +669,8 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <details><summary>Integer Value Adjustment Tips</summary>
 <p><div style="display: inline-block; width: 95%"><table border="2" cellpadding="10" style="text-align: center">
 <tr><td></td><th>Decreasing Value</th><th>Increasing Value</th></tr>
-<tr><th>✿✿</th><td>Moves Pokemon to the Left<td></td><td>Moves Pokemon to the Right</td></tr>
-<tr><th>✿✿✿</th><td>Moves Pokemon Upward<td></td><td>Moves Pokemon Downward</td></tr>
+<tr><th>✿✿</th><td>Moves Pokemon to the Left</td><td>Moves Pokemon to the Right</td></tr>
+<tr><th>✿✿✿</th><td>Moves Pokemon Upward</td><td>Moves Pokemon Downward</td></tr>
 </table></div></p></details></li>
 </ol>
 
