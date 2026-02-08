@@ -664,13 +664,13 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 <ol>
 <li>Replace ✿ with a Pokemon name.</li>
-<li>Replace ✿✿ and ✿✿✿ with a positive integer that is less than the Pokemon GIF's width and height (respectively) by 20 or more. Width and height can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced. If a GIF's width or height is 20 or less, the relevant integer can be set to 0 instead.</li>
-<li>View your prompt privately with <code>/htmlbox</code>. If the Pokemon is not visible, adjust the values of ✿✿ and ✿✿✿.<br><br>
-<details><summary>Value Guide</summary>
+<li>Replace ✿✿ and ✿✿✿ with an integer that is respectively less than the Pokemon GIF's width and height by 20 or more. Width and height can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced. If the GIF's width or height is 19 or less, the relevant integer should be set to 0 instead.</li>
+<li>View your prompt privately with <code>/htmlbox</code>. If the Pokemon is not visible enough to be identified, adjust the values of ✿✿ and ✿✿✿.<br><br>
+<details><summary>Integer Value Adjustment Tips</summary>
 <p><div style="display: inline-block; width: 95%"><table border="2" cellpadding="10" style="text-align: center">
-<tr><td></td><th>Lower Value</th><th>Higher Value</th></tr>
-<tr><th>✿✿</th><td>Left<td></td><td>Right</td></tr>
-<tr><th>✿✿✿</th><td>Top<td></td><td>Bottom</td></tr>
+<tr><td></td><th>Decreasing Value</th><th>Increasing Value</th></tr>
+<tr><th>✿✿</th><td>Moves Pokemon to the Left<td></td><td>Moves Pokemon to the Right</td></tr>
+<tr><th>✿✿✿</th><td>Moves Pokemon Upward<td></td><td>Moves Pokemon Downward</td></tr>
 </table></div></p></details></li>
 </ol>
 
