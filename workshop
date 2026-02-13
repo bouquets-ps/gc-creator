@@ -907,39 +907,6 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 </p></details></div><br><br>
 
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -390px"></span><strong class="searchValue">Sentret's Binoculars</strong><br><br>Identify the Pokemon shown based on a small part of its GIF!<br><br><span style="float: right"><b>Last updated:</b> 2026-02-08</span><br></summary><p>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
-
-<ol>
-<li>Replace ✿ with a Pokemon name.</li>
-<li>Replace ✿✿ and ✿✿✿ with a non-negative integer that is respectively less than the Pokemon GIF's width and height by 20 or more. Width and height can be found by downloading the Pokemon GIF, whose link can be copied in the prompt where ✿ was replaced. In rare cases where the GIF's width or height is 19 or less, the relevant integer should be set to 0 instead.</li>
-<li>View your prompt privately with <code>/htmlbox</code>. If the Pokemon is not visible enough to be identified, adjust the values of ✿✿ and ✿✿✿.<br><br>
-<details><summary>Integer Value Adjustment Tips</summary>
-<p><div style="display: inline-block; width: 95%"><table border="2" cellpadding="10" style="text-align: center">
-<tr><td></td><th>Decreasing Value</th><th>Increasing Value</th></tr>
-<tr><th>✿✿</th><td>Moves Pokemon to the Left</td><td>Moves Pokemon to the Right</td></tr>
-<tr><th>✿✿✿</th><td>Moves Pokemon Upward</td><td>Moves Pokemon Downward</td></tr>
-</table></div></p></details></li>
-</ol>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
-
-<textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -200px -390px;"></span><b>Mini Sentret's Binoculars</b><br>Identify the Pokemon shown based on a small part of its GIF!<hr><center><br><div style="display: inline-block; border: 1px solid #68a; padding: 0px; border-radius: 20px; width: 20px; height: 20px; overflow: hidden">
-<span style="display: inline-block; width: 200px; height: 200px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/ani/✿.gif) no-repeat scroll -✿✿px -✿✿✿px"></span></div><br><br></center>
-</textarea>
-
-</div><br><br>
-<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
-
-<table>
-<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
-</table>
-
-</div>
-</p></details></div><br><br>
-
 
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -320px -1950px"></span><strong class="searchValue">Tapu's RKS Terrains</strong><br><br>Jump on Arceus or Silvally based on the given terrain. (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-12-30</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
