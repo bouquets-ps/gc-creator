@@ -815,7 +815,7 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Draw anything related to your Pokemon.</li>
+<li>Draw something simple that is related to your Pokemon.</li>
 <li>Upload your drawing to any image hosting site.</li>
 <li>Replace ✿ with the link to your drawing.</li>
 <li>Replace ✿✿ with an aspect ratio style (based on the width and height of your image), which must be copied below.</li>
@@ -837,7 +837,7 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 <tr><td>Image Hosting Site</td><td><span class="copyable-item" data-copy-text="https://catbox.moe">Catbox</span><span class="copyable-item" data-copy-text="https://imgur.com/upload">Imgur</span></td></tr>
 
-<tr><td>Aspect Ratio Style</td><td><span class="copyable-item" data-copy-text="width=&quot;304&quot; height=&quot;171&quot;">16:9</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;200&quot;">3:2</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;225&quot;">4:3</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;240&quot;">5:4</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;300&quot;">1:1</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;240&quot; height=&quot;300&quot;">4:5</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;225&quot; height=&quot;300&quot;">3:4</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;200&quot; height=&quot;300&quot;">2:3</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;171&quot; height=&quot;304&quot;">9:16</span></td></tr>
+<tr><td>Aspect Ratio Style</td><td><span class="copyable-item" data-copy-text="width=&quot;304&quot; height=&quot;171&quot;">16:9</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;200&quot;">3:2</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;225&quot;">4:3</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;240&quot;">5:4</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;300&quot;">1:1</span><span class="copyable-item" data-copy-text="width=&quot;240&quot; height=&quot;300&quot;">4:5</span><span class="copyable-item" data-copy-text="width=&quot;225&quot; height=&quot;300&quot;">3:4</span><span class="copyable-item" data-copy-text="width=&quot;200&quot; height=&quot;300&quot;">2:3</span><span class="copyable-item" data-copy-text="width=&quot;171&quot; height=&quot;304&quot;">9:16</span></td></tr>
 </table>
 
 </div>
