@@ -811,20 +811,22 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 </p></details></div><br><br>
 
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -90px"></span><strong class="searchValue">Jigglypuff's Scribbles</strong><br><br>Identify the Pokemon shown based on the host's crude drawing!<br><br><span style="float: right"><b>Last updated:</b> 2026-03-01</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -90px"></span><strong class="searchValue">Jigglypuff's Scribbles</strong><br><br>Guess the mystery Pokemon based on the host's drawings!<br><br><span style="float: right"><b>Last updated:</b> 2026-03-03</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Upload a poorly drawn Pokemon to any image hosting site.</li>
+<li>Draw anything related to your Pokemon.</li>
+<li>Upload your drawing to any image hosting site.</li>
 <li>Replace ✿ with the link to your drawing.</li>
+<li>Replace ✿✿ with an aspect ratio style (based on the width and height of your image), which must be copied below.</li>
 </ol>
 
 </div><br><br>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-/htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -90px;"></span><b>Mini Jigglypuff's Scribbles</b><br>Identify the Pokemon shown based on the host's crude drawing!<hr><center><br>
-<img src="✿" width="300" height="300"><br><br></center>
+/htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -90px;"></span><b>Mini Jigglypuff's Scribbles</b><br>Guess the mystery Pokemon based on the host's drawings!<hr><center><br>
+<img src="✿" ✿✿><br><br></center>
 </textarea>
 
 </div><br><br>
@@ -832,6 +834,19 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 <table>
 <tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+
+<tr><td>Image Hosting Site</td><td><span class="copyable-item" data-copy-text="https://catbox.moe">Catbox</span><span class="copyable-item" data-copy-text="https://imgur.com/upload">Imgur</span></td></tr>
+
+<tr><td>Aspect Ratio Style</td><td>
+<span class="copyable-item" data-copy-text="✿">16:9</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">3:2</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">4:3</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">5:4</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">1:1</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">4:5</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">3:4</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">2:3</span></td></tr>
+<span class="copyable-item" data-copy-text="✿">9:16</span></td></tr>
 </table>
 
 </div>
