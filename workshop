@@ -837,16 +837,7 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 
 <tr><td>Image Hosting Site</td><td><span class="copyable-item" data-copy-text="https://catbox.moe">Catbox</span><span class="copyable-item" data-copy-text="https://imgur.com/upload">Imgur</span></td></tr>
 
-<tr><td>Aspect Ratio Style</td><td>
-<span class="copyable-item" data-copy-text="✿">16:9</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">3:2</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">4:3</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">5:4</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">1:1</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">4:5</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">3:4</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">2:3</span></td></tr>
-<span class="copyable-item" data-copy-text="✿">9:16</span></td></tr>
+<tr><td>Aspect Ratio Style</td><td><span class="copyable-item" data-copy-text="width=&quot;304&quot; height=&quot;171&quot;">16:9</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;200&quot;">3:2</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;225&quot;">4:3</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;240&quot;">5:4</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;300&quot;">1:1</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;240&quot; height=&quot;300&quot;">4:5</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;225&quot; height=&quot;300&quot;">3:4</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;200&quot; height=&quot;300&quot;">2:3</span></td></tr><span class="copyable-item" data-copy-text="width=&quot;171&quot; height=&quot;304&quot;">9:16</span></td></tr>
 </table>
 
 </div>
