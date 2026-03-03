@@ -516,6 +516,39 @@ button {
 </p></details></div><br><br>
 
 
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -90px"></span><strong class="searchValue">Jigglypuff's Scribbles</strong><br><br>Guess the mystery Pokemon based on the host's drawings!<br><br><span style="float: right"><b>Last updated:</b> 2026-03-04</span><br></summary><p>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
+
+<ol>
+<li>Draw your Pokemon or hints that are related to your Pokemon in a childlike way.</li>
+<li>Upload your drawing to any image hosting site.</li>
+<li>Replace ✿ with the link to your image.</li>
+<li>Replace ✿✿ with an aspect ratio style, which must be copied below. The chosen style should reflect your image's proportional relationship between its width and height as accurately as possible.</li>
+</ol>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
+
+<textarea>
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -90px;"></span><b>Mini Jigglypuff's Scribbles</b><br>Guess the mystery Pokemon based on the host's drawings!<hr><center><br>
+<img src="✿" ✿✿><br><br></center>
+</textarea>
+
+</div><br><br>
+<div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Click to Copy</b><br><br>
+
+<table>
+<tr><td style="width: 250px">PS! Command</td><td><span class="copyable-item" data-copy-text="/randpoke natdex">Generate a Random Pokemon Name</span></td></tr>
+
+<tr><td>Image Hosting Site</td><td><span class="copyable-item" data-copy-text="https://catbox.moe">Catbox</span><span class="copyable-item" data-copy-text="https://imgur.com/upload">Imgur</span></td></tr>
+
+<tr><td>Aspect Ratio Style</td><td><span class="copyable-item" data-copy-text="width=&quot;304&quot; height=&quot;171&quot;">16:9</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;200&quot;">3:2</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;225&quot;">4:3</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;240&quot;">5:4</span><span class="copyable-item" data-copy-text="width=&quot;300&quot; height=&quot;300&quot;">1:1</span><span class="copyable-item" data-copy-text="width=&quot;240&quot; height=&quot;300&quot;">4:5</span><span class="copyable-item" data-copy-text="width=&quot;225&quot; height=&quot;300&quot;">3:4</span><span class="copyable-item" data-copy-text="width=&quot;200&quot; height=&quot;300&quot;">2:3</span><span class="copyable-item" data-copy-text="width=&quot;171&quot; height=&quot;304&quot;">9:16</span></td></tr>
+</table>
+
+</div>
+</p></details></div><br><br>
+
+
 <div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://imgur.com/eucYH2Q.png) no-repeat scroll -360px -3300px"></span><strong class="searchValue">Kangaskhan's 2 × 100M Relay</strong><br><br>Guess which team will reach the finish line first!<br><br><span style="float: right"><b>Last updated:</b> 2026-02-11</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
