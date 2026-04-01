@@ -863,11 +863,11 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 </p></details></div><br><br>
 
 
-<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -540px"></span><strong class="searchValue">Magcargo's Every Weak Spot</strong><br><br>Name every weakness that all of the given Pokemon share! (one guess only)<br><br><span style="float: right"><b>Last updated:</b> 2025-12-10</span><br></summary><p>
+<div class="searchValue" style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><details><summary><span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -540px"></span><strong class="searchValue">Magcargo's Weak Spot (PNGs)</strong><br><br>Guess the weakness(es) that the given Pokemon share (one chance to guess correctly)!<br><br><span style="float: right"><b>Last updated:</b> 2026-04-01</span><br></summary><p>
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Preparations</b><br>
 
 <ol>
-<li>Generate a Magcargo's Weak Spot prompt that has two or more possible answers.</li>
+<li>Generate a Magcargo's Weak Spot prompt.</li>
 <li>Replace each <code>✿</code> with a different Pokemon from the generated prompt.</li>
 </ol>
 
@@ -875,10 +875,11 @@ There are <code>_____</code> Swablu, <code>_____</code> Altaria, <code>_____</co
 <div style="display: inline-block ; border: 1px solid #68a ; border-radius: 5px ; padding: 25px ; width: 95%"><b>Prompt</b><br><br>
 
 <textarea>
-!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -540px;"></span><b>Mini Magcargo's Every Weak Spot</b><br>Name every weakness that all of the given Pokemon share! (one guess only)<hr>
-<psicon pokemon="✿">
-<psicon pokemon="✿">
-<psicon pokemon="✿">
+!htmlbox <span style="display: inline-block;height: 30px;width: 40px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/pokemonicons-sheet.png?v16) no-repeat scroll -120px -540px;"></span><b>Mini Magcargo's Weak Spot (PNGs)</b><br>Guess the weakness(es) that the given Pokemon share (one chance to guess correctly)!<hr><center><br>
+<span style="display: inline-block; width: 96px; height: 96px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/afd/✿.png) no-repeat scroll -0px -0px"></span>
+<span style="display: inline-block; width: 96px; height: 96px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/afd/✿.png) no-repeat scroll -0px -0px"></span>
+<span style="display: inline-block; width: 96px; height: 96px;image-rendering: pixelated;background:transparent url(https://play.pokemonshowdown.com/sprites/afd/✿.png) no-repeat scroll -0px -0px"></span>
+<br><br></center>
 </textarea>
 
 </div><br><br>
